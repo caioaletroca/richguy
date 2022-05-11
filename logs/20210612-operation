@@ -1,0 +1,283 @@
+[2021-06-12T16:04:04.785] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T16:04:05.747] [INFO] operation - Operation of type buy and value 62500
+[2021-06-12T16:04:05.747] [INFO] operation - Profit earned as 0.00% over last operation from 5.00
+[2021-06-12T16:18:08.650] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T16:18:09.624] [INFO] operation - Operation of type buy and value 62500
+[2021-06-12T16:18:09.625] [INFO] operation - Profit earned as 0.00% over last operation from 5.00
+[2021-06-12T16:24:08.956] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T16:50:45.029] [INFO] operation - Operation of type sell and value 0.012026477492848256
+[2021-06-12T16:50:45.030] [INFO] operation - Profit earned as 0.41% over last operation from 150.00
+[2021-06-12T16:51:52.380] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T16:51:53.386] [INFO] operation - Operation of type buy and value 62616.5
+[2021-06-12T16:51:53.389] [INFO] operation - Profit earned as 0.00% over last operation from 5.00
+[2021-06-12T16:55:15.589] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T16:55:16.603] [INFO] operation - Operation of type buy and value 62616.5
+[2021-06-12T16:55:16.604] [INFO] operation - Profit earned as 0.00% over last operation from 5.00
+[2021-06-12T17:16:21.239] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:16:22.252] [INFO] operation - Operation of type buy and value 62475.8
+[2021-06-12T17:16:22.254] [INFO] operation - Profit earned as 0.00% over last operation from 5.00
+[2021-06-12T17:40:08.379] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:40:11.028] [INFO] operation - Operation of type buy and value 19.293025
+[2021-06-12T17:40:11.031] [INFO] operation - Profit earned as 6.67% over last operation from 5.00
+[2021-06-12T17:40:37.140] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:40:42.645] [INFO] operation - Operation of type buy and value 10.626249999999999
+[2021-06-12T17:40:42.645] [INFO] operation - Profit earned as 32.97% over last operation from 5.00
+[2021-06-12T17:41:15.604] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:41:19.693] [INFO] operation - Operation of type buy and value 13.28649
+[2021-06-12T17:41:19.694] [INFO] operation - Profit earned as 27.16% over last operation from 5.00
+[2021-06-12T17:41:43.247] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:41:48.728] [INFO] operation - Operation of type buy and value 10.34281
+[2021-06-12T17:41:48.729] [INFO] operation - Profit earned as 34.20% over last operation from 5.00
+[2021-06-12T17:42:21.719] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:42:25.875] [INFO] operation - Operation of type buy and value 14.459299999999999
+[2021-06-12T17:42:25.875] [INFO] operation - Profit earned as 21.96% over last operation from 5.00
+[2021-06-12T17:42:49.375] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:42:54.980] [INFO] operation - Operation of type buy and value 11.835195
+[2021-06-12T17:42:54.984] [INFO] operation - Profit earned as 25.76% over last operation from 5.00
+[2021-06-12T17:43:09.864] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T17:43:15.565] [INFO] operation - Operation of type sell and value 214.6177586179761
+[2021-06-12T17:43:15.566] [INFO] operation - Profit earned as 181.63% over last operation from 150.00
+[2021-06-12T17:43:55.478] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:44:00.987] [INFO] operation - Operation of type buy and value 10.602725
+[2021-06-12T17:44:00.988] [INFO] operation - Profit earned as 32.03% over last operation from 5.00
+[2021-06-12T17:44:33.818] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:44:37.905] [INFO] operation - Operation of type buy and value 13.107925
+[2021-06-12T17:44:37.906] [INFO] operation - Profit earned as 28.43% over last operation from 5.00
+[2021-06-12T17:45:01.434] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:45:06.961] [INFO] operation - Operation of type buy and value 10.396745000000001
+[2021-06-12T17:45:06.962] [INFO] operation - Profit earned as 35.17% over last operation from 5.00
+[2021-06-12T17:45:21.936] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T17:45:27.657] [INFO] operation - Operation of type sell and value 207.03419376744264
+[2021-06-12T17:45:27.657] [INFO] operation - Profit earned as 167.65% over last operation from 150.00
+[2021-06-12T17:46:07.398] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:46:12.889] [INFO] operation - Operation of type buy and value 10.224275
+[2021-06-12T17:46:12.893] [INFO] operation - Profit earned as 35.23% over last operation from 5.00
+[2021-06-12T17:46:45.806] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:46:49.984] [INFO] operation - Operation of type buy and value 14.45242
+[2021-06-12T17:46:49.985] [INFO] operation - Profit earned as 22.11% over last operation from 5.00
+[2021-06-12T17:47:13.420] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:47:18.920] [INFO] operation - Operation of type buy and value 10.57105
+[2021-06-12T17:47:18.921] [INFO] operation - Profit earned as 33.37% over last operation from 5.00
+[2021-06-12T17:47:51.746] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:47:55.803] [INFO] operation - Operation of type buy and value 13.43038
+[2021-06-12T17:47:55.804] [INFO] operation - Profit earned as 26.38% over last operation from 5.00
+[2021-06-12T17:48:19.276] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:48:24.772] [INFO] operation - Operation of type buy and value 10.601320000000001
+[2021-06-12T17:48:24.772] [INFO] operation - Profit earned as 31.91% over last operation from 5.00
+[2021-06-12T17:48:57.634] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:49:01.696] [INFO] operation - Operation of type buy and value 13.09366
+[2021-06-12T17:49:01.697] [INFO] operation - Profit earned as 28.62% over last operation from 5.00
+[2021-06-12T17:49:25.223] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:49:30.679] [INFO] operation - Operation of type buy and value 10.510200000000001
+[2021-06-12T17:49:30.679] [INFO] operation - Profit earned as 34.35% over last operation from 5.00
+[2021-06-12T17:50:03.494] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:50:07.571] [INFO] operation - Operation of type buy and value 13.275875
+[2021-06-12T17:50:07.572] [INFO] operation - Profit earned as 27.25% over last operation from 5.00
+[2021-06-12T17:50:31.058] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:50:36.542] [INFO] operation - Operation of type buy and value 10.577445
+[2021-06-12T17:50:36.543] [INFO] operation - Profit earned as 34.11% over last operation from 5.00
+[2021-06-12T17:51:09.436] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:51:13.502] [INFO] operation - Operation of type buy and value 13.06701
+[2021-06-12T17:51:13.506] [INFO] operation - Profit earned as 29.08% over last operation from 5.00
+[2021-06-12T17:51:36.980] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:51:42.466] [INFO] operation - Operation of type buy and value 10.609409999999999
+[2021-06-12T17:51:42.467] [INFO] operation - Profit earned as 32.58% over last operation from 5.00
+[2021-06-12T17:52:15.284] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:52:19.209] [INFO] operation - Operation of type buy and value 12.23295
+[2021-06-12T17:52:19.210] [INFO] operation - Profit earned as 33.03% over last operation from 5.00
+[2021-06-12T17:52:42.818] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:52:48.296] [INFO] operation - Operation of type buy and value 10.543320000000001
+[2021-06-12T17:52:48.297] [INFO] operation - Profit earned as 32.57% over last operation from 5.00
+[2021-06-12T17:53:21.173] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:53:25.236] [INFO] operation - Operation of type buy and value 13.052
+[2021-06-12T17:53:25.237] [INFO] operation - Profit earned as 29.19% over last operation from 5.00
+[2021-06-12T17:53:48.826] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:53:54.313] [INFO] operation - Operation of type buy and value 10.160275
+[2021-06-12T17:53:54.314] [INFO] operation - Profit earned as 35.08% over last operation from 5.00
+[2021-06-12T17:54:27.169] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:54:31.236] [INFO] operation - Operation of type buy and value 12.984725
+[2021-06-12T17:54:31.241] [INFO] operation - Profit earned as 28.30% over last operation from 5.00
+[2021-06-12T17:54:54.721] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:55:00.314] [INFO] operation - Operation of type buy and value 11.89171
+[2021-06-12T17:55:00.315] [INFO] operation - Profit earned as 25.11% over last operation from 5.00
+[2021-06-12T17:55:33.115] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:55:37.181] [INFO] operation - Operation of type buy and value 13.040389999999999
+[2021-06-12T17:55:37.182] [INFO] operation - Profit earned as 29.66% over last operation from 5.00
+[2021-06-12T17:56:00.729] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:56:06.261] [INFO] operation - Operation of type buy and value 10.182125
+[2021-06-12T17:56:06.262] [INFO] operation - Profit earned as 35.21% over last operation from 5.00
+[2021-06-12T17:56:39.161] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:56:43.242] [INFO] operation - Operation of type buy and value 13.106005
+[2021-06-12T17:56:43.243] [INFO] operation - Profit earned as 29.10% over last operation from 5.00
+[2021-06-12T17:57:06.783] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:57:12.297] [INFO] operation - Operation of type buy and value 10.616865
+[2021-06-12T17:57:12.297] [INFO] operation - Profit earned as 31.92% over last operation from 5.00
+[2021-06-12T17:57:27.263] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T17:57:32.998] [INFO] operation - Operation of type sell and value 202.15687912905423
+[2021-06-12T17:57:33.001] [INFO] operation - Profit earned as 166.98% over last operation from 150.00
+[2021-06-12T17:58:12.683] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:58:18.202] [INFO] operation - Operation of type buy and value 10.234965
+[2021-06-12T17:58:18.203] [INFO] operation - Profit earned as 35.39% over last operation from 5.00
+[2021-06-12T17:58:33.165] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T17:58:38.978] [INFO] operation - Operation of type sell and value 202.92921558388147
+[2021-06-12T17:58:38.979] [INFO] operation - Profit earned as 157.20% over last operation from 150.00
+[2021-06-12T17:59:18.664] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T17:59:24.270] [INFO] operation - Operation of type buy and value 11.96166
+[2021-06-12T17:59:24.271] [INFO] operation - Profit earned as 24.19% over last operation from 5.00
+[2021-06-12T17:59:39.081] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T17:59:44.788] [INFO] operation - Operation of type sell and value 217.81652007614866
+[2021-06-12T17:59:44.789] [INFO] operation - Profit earned as 187.56% over last operation from 150.00
+[2021-06-12T17:59:56.969] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T18:00:00.994] [INFO] operation - Operation of type buy and value 13.230854999999998
+[2021-06-12T18:00:00.994] [INFO] operation - Profit earned as 28.78% over last operation from 5.00
+[2021-06-12T18:00:24.522] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T18:00:30.004] [INFO] operation - Operation of type buy and value 10.550115
+[2021-06-12T18:00:30.005] [INFO] operation - Profit earned as 33.91% over last operation from 5.00
+[2021-06-12T18:00:44.908] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T18:00:50.568] [INFO] operation - Operation of type sell and value 204.6825918820155
+[2021-06-12T18:00:50.568] [INFO] operation - Profit earned as 165.69% over last operation from 150.00
+[2021-06-12T18:01:30.313] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T18:01:35.792] [INFO] operation - Operation of type buy and value 10.469124999999998
+[2021-06-12T18:01:35.796] [INFO] operation - Profit earned as 33.84% over last operation from 5.00
+[2021-06-12T18:02:08.590] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T18:02:12.633] [INFO] operation - Operation of type buy and value 13.360924999999998
+[2021-06-12T18:02:12.634] [INFO] operation - Profit earned as 26.30% over last operation from 5.00
+[2021-06-12T18:02:36.144] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T18:02:41.782] [INFO] operation - Operation of type buy and value 11.96072
+[2021-06-12T18:02:41.783] [INFO] operation - Profit earned as 25.04% over last operation from 5.00
+[2021-06-12T18:03:14.530] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T18:03:18.604] [INFO] operation - Operation of type buy and value 12.989615
+[2021-06-12T18:03:18.605] [INFO] operation - Profit earned as 29.10% over last operation from 5.00
+[2021-06-12T18:03:42.112] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T18:17:45.701] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T18:17:51.169] [INFO] operation - Operation of type buy and value 10.435095
+[2021-06-12T18:18:17.582] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T18:18:23.046] [INFO] operation - Operation of type buy and value 10.257575000000001
+[2021-06-12T18:18:23.048] [INFO] operation - Profit earned as 35.88% over last operation from 5.00
+[2021-06-12T18:18:44.514] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T18:18:49.463] [INFO] operation - Operation of type buy and value 9.57712
+[2021-06-12T18:18:49.464] [INFO] operation - Profit earned as 35.75% over last operation from 5.00
+[2021-06-12T18:19:23.357] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T18:19:28.950] [INFO] operation - Operation of type buy and value 10.413079999999999
+[2021-06-12T18:19:28.955] [INFO] operation - Profit earned as 33.08% over last operation from 5.00
+[2021-06-12T18:19:50.823] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T18:19:55.449] [INFO] operation - Operation of type buy and value 9.655535
+[2021-06-12T18:19:55.450] [INFO] operation - Profit earned as 12.88% over last operation from 5.00
+[2021-06-12T18:20:29.199] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T18:20:34.770] [INFO] operation - Operation of type buy and value 10.315605000000001
+[2021-06-12T18:20:34.771] [INFO] operation - Profit earned as 32.85% over last operation from 5.00
+[2021-06-12T18:20:56.649] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T18:21:01.302] [INFO] operation - Operation of type buy and value 9.602965
+[2021-06-12T18:21:01.305] [INFO] operation - Profit earned as 9.91% over last operation from 5.00
+[2021-06-12T18:21:35.227] [INFO] operation - Operation of type sell and value 5
+[2021-06-12T18:21:40.850] [INFO] operation - Operation of type buy and value 10.21751
+[2021-06-12T18:21:40.851] [INFO] operation - Profit earned as 34.54% over last operation from 5.00
+[2021-06-12T19:26:19.100] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T19:26:40.239] [INFO] operation - Operation of type sell and value 8527.756711060272
+[2021-06-12T19:26:40.240] [INFO] operation - Profit earned as -0.53% over last operation from 150.00
+[2021-06-12T21:45:00.911] [INFO] operation - Operation of type sell and value 50
+[2021-06-12T21:45:21.093] [INFO] operation - Operation of type buy and value 0.8814845
+[2021-06-12T21:45:21.094] [INFO] operation - Profit earned as 0.56% over last operation from 50.00
+[2021-06-12T21:46:05.474] [INFO] operation - Operation of type sell and value 50
+[2021-06-12T21:46:19.617] [INFO] operation - Operation of type buy and value 0.8829725
+[2021-06-12T21:46:19.618] [INFO] operation - Profit earned as 0.01% over last operation from 50.00
+[2021-06-12T21:46:40.838] [INFO] operation - Operation of type sell and value 50
+[2021-06-12T21:46:50.899] [INFO] operation - Operation of type buy and value 0.8835245
+[2021-06-12T21:46:50.901] [INFO] operation - Profit earned as 0.54% over last operation from 50.00
+[2021-06-12T21:49:52.421] [INFO] operation - Operation of type sell and value 50
+[2021-06-12T21:50:04.516] [INFO] operation - Operation of type buy and value 0.884792
+[2021-06-12T21:50:04.516] [INFO] operation - Profit earned as 0.10% over last operation from 50.00
+[2021-06-12T22:14:02.147] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:14:06.187] [INFO] operation - Operation of type sell and value 8523.9235279042
+[2021-06-12T22:14:06.188] [INFO] operation - Profit earned as 0.12% over last operation from 150.00
+[2021-06-12T22:16:04.070] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:16:12.135] [INFO] operation - Operation of type sell and value 8523.9235279042
+[2021-06-12T22:16:12.137] [INFO] operation - Profit earned as 0.13% over last operation from 150.00
+[2021-06-12T22:16:25.251] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:16:27.260] [INFO] operation - Operation of type sell and value 8518.767981699415
+[2021-06-12T22:16:27.263] [INFO] operation - Profit earned as -0.08% over last operation from 150.00
+[2021-06-12T22:16:49.433] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:17:00.500] [INFO] operation - Operation of type sell and value 8524.621094800037
+[2021-06-12T22:17:00.502] [INFO] operation - Profit earned as -0.02% over last operation from 150.00
+[2021-06-12T22:17:17.635] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:17:27.671] [INFO] operation - Operation of type sell and value 8527.596724265844
+[2021-06-12T22:17:27.672] [INFO] operation - Profit earned as 0.10% over last operation from 150.00
+[2021-06-12T22:18:29.142] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:18:31.145] [INFO] operation - Operation of type sell and value 8523.744310400672
+[2021-06-12T22:18:31.147] [INFO] operation - Profit earned as 0.00% over last operation from 150.00
+[2021-06-12T22:18:46.255] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:18:52.285] [INFO] operation - Operation of type sell and value 8524.81972847881
+[2021-06-12T22:18:52.286] [INFO] operation - Profit earned as 0.00% over last operation from 150.00
+[2021-06-12T22:19:16.481] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:19:30.561] [INFO] operation - Operation of type sell and value 8524.931161180873
+[2021-06-12T22:19:30.562] [INFO] operation - Profit earned as 0.01% over last operation from 150.00
+[2021-06-12T22:20:07.883] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:20:19.980] [INFO] operation - Operation of type sell and value 8525.594972854506
+[2021-06-12T22:20:19.980] [INFO] operation - Profit earned as -0.05% over last operation from 150.00
+[2021-06-12T22:20:40.156] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:20:46.180] [INFO] operation - Operation of type sell and value 8529.45391024285
+[2021-06-12T22:20:46.185] [INFO] operation - Profit earned as 0.33% over last operation from 150.00
+[2021-06-12T22:21:03.326] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:21:12.406] [INFO] operation - Operation of type sell and value 8534.894346542884
+[2021-06-12T22:21:12.408] [INFO] operation - Profit earned as 0.00% over last operation from 150.00
+[2021-06-12T22:21:24.530] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:21:31.585] [INFO] operation - Operation of type sell and value 8520.408366132173
+[2021-06-12T22:21:31.586] [INFO] operation - Profit earned as -0.01% over last operation from 150.00
+[2021-06-12T22:22:11.872] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:22:23.970] [INFO] operation - Operation of type sell and value 8520.021197812739
+[2021-06-12T22:22:23.972] [INFO] operation - Profit earned as -0.09% over last operation from 150.00
+[2021-06-12T22:22:42.103] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:22:56.239] [INFO] operation - Operation of type sell and value 8526.782339101039
+[2021-06-12T22:22:56.240] [INFO] operation - Profit earned as 0.34% over last operation from 150.00
+[2021-06-12T22:23:17.397] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:23:34.566] [INFO] operation - Operation of type sell and value 8533.908632560617
+[2021-06-12T22:23:34.567] [INFO] operation - Profit earned as 0.06% over last operation from 150.00
+[2021-06-12T22:23:55.675] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:24:34.956] [INFO] operation - Operation of type sell and value 8524.984456111675
+[2021-06-12T22:24:34.958] [INFO] operation - Profit earned as -0.03% over last operation from 150.00
+[2021-06-12T22:25:11.212] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:25:27.342] [INFO] operation - Operation of type sell and value 8534.374754636725
+[2021-06-12T22:25:27.342] [INFO] operation - Profit earned as -0.00% over last operation from 150.00
+[2021-06-12T22:25:45.476] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:26:20.549] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:26:48.760] [INFO] operation - Operation of type sell and value 8533.03964507106
+[2021-06-12T22:26:48.761] [INFO] operation - Profit earned as -0.08% over last operation from 150.00
+[2021-06-12T22:27:13.909] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:27:39.064] [INFO] operation - Operation of type sell and value 8537.177415637036
+[2021-06-12T22:27:39.065] [INFO] operation - Profit earned as 0.09% over last operation from 150.00
+[2021-06-12T22:28:14.343] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:28:25.410] [INFO] operation - Operation of type sell and value 8528.57128236735
+[2021-06-12T22:28:25.413] [INFO] operation - Profit earned as 0.05% over last operation from 150.00
+[2021-06-12T22:28:44.574] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:28:58.681] [INFO] operation - Operation of type sell and value 8522.606212979928
+[2021-06-12T22:28:58.682] [INFO] operation - Profit earned as -0.02% over last operation from 150.00
+[2021-06-12T22:29:16.786] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:29:31.899] [INFO] operation - Operation of type sell and value 8524.843952731444
+[2021-06-12T22:29:31.902] [INFO] operation - Profit earned as 0.02% over last operation from 150.00
+[2021-06-12T22:29:52.033] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:30:22.279] [INFO] operation - Operation of type sell and value 8524.843952731444
+[2021-06-12T22:30:22.280] [INFO] operation - Profit earned as 0.29% over last operation from 150.00
+[2021-06-12T22:37:47.639] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:38:15.930] [INFO] operation - Operation of type sell and value 8527.174969671682
+[2021-06-12T22:38:15.932] [INFO] operation - Profit earned as 0.15% over last operation from 150.00
+[2021-06-12T22:38:29.040] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:38:49.219] [INFO] operation - Operation of type sell and value 8529.119266086345
+[2021-06-12T22:38:49.220] [INFO] operation - Profit earned as 0.16% over last operation from 150.00
+[2021-06-12T22:39:21.514] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:39:29.595] [INFO] operation - Operation of type sell and value 8521.59912920619
+[2021-06-12T22:39:29.595] [INFO] operation - Profit earned as -0.18% over last operation from 150.00
+[2021-06-12T22:39:53.714] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:40:07.816] [INFO] operation - Operation of type sell and value 8519.39696300537
+[2021-06-12T22:40:07.816] [INFO] operation - Profit earned as 0.36% over last operation from 150.00
+[2021-06-12T22:40:18.912] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:40:36.043] [INFO] operation - Operation of type sell and value 8522.538421023624
+[2021-06-12T22:40:36.045] [INFO] operation - Profit earned as 0.02% over last operation from 150.00
+[2021-06-12T22:41:16.333] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:41:54.604] [INFO] operation - Operation of type sell and value 8522.528736546477
+[2021-06-12T22:41:54.608] [INFO] operation - Profit earned as 0.00% over last operation from 150.00
+[2021-06-12T22:42:14.745] [INFO] operation - Operation of type buy and value 150
+[2021-06-12T22:42:35.882] [INFO] operation - Operation of type sell and value 8525.643430309687
+[2021-06-12T22:42:35.885] [INFO] operation - Profit earned as 0.36% over last operation from 150.00
+[2021-06-13T01:14:00.716] [INFO] operation - Operation of type sell and value 50
+[2021-06-13T01:14:16.779] [INFO] operation - Operation of type buy and value 0.8729135000000001
+[2021-06-13T01:14:16.780] [INFO] operation - Profit earned as 0.12% over last operation from 50.00

@@ -1,0 +1,25 @@
+{
+  "name": "richguy",
+  "version": "1.0.0",
+  "description": "Lets be richhhh",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js --env=",
+    "start:sim": "node index.js --env=sim",
+    "test:size": "node ./tests/cacheGenerator"
+  },
+  "author": "Caio Troti",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "export-to-csv": "^0.2.1",
+    "log4js": "^6.3.0",
+    "minimist": "^1.2.5",
+    "moment": "^2.29.1",
+    "puppeteer": "^9.1.1",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "readline": "^1.3.0",
+    "technicalindicators": "^3.1.0"
+  }
+}

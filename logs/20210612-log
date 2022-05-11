@@ -1,0 +1,1284 @@
+[2021-06-12T15:03:11.042] [INFO] default - Starting application
+[2021-06-12T15:03:26.523] [INFO] default - Booting services
+[2021-06-12T15:03:26.524] [INFO] default - Crawling into ETH_BRL pair dashboard
+[2021-06-12T15:03:34.109] [INFO] default - Searching for cached data
+[2021-06-12T15:03:34.167] [INFO] default - Cached loaded
+[2021-06-12T15:03:34.170] [INFO] default - Starting data collection
+[2021-06-12T15:03:34.172] [INFO] default - Starting indicators
+[2021-06-12T15:03:34.182] [INFO] default - Getting OperatorView DOM elements
+[2021-06-12T15:03:34.231] [INFO] default - Starting advisor
+[2021-06-12T15:03:34.233] [INFO] default - Starting application states
+[2021-06-12T15:03:34.233] [INFO] default - State set to Standby
+[2021-06-12T15:03:34.233] [INFO] default - Starting flow loop
+[2021-06-12T16:03:58.728] [INFO] default - State set to Active
+[2021-06-12T16:04:04.785] [INFO] default - Stoploss set to 12400
+[2021-06-12T16:04:04.793] [INFO] default - State set to Operating
+[2021-06-12T16:04:05.829] [INFO] default - State set to Satiated
+[2021-06-12T16:04:05.830] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T16:04:25.154] [INFO] default - State set to Active
+[2021-06-12T16:09:34.680] [INFO] default - Removing excess items from the memory
+[2021-06-12T16:09:34.793] [INFO] default - Items saved into the cache
+[2021-06-12T16:15:34.719] [INFO] default - Removing excess items from the memory
+[2021-06-12T16:15:34.739] [INFO] default - Items saved into the cache
+[2021-06-12T16:18:08.649] [INFO] default - Stoploss set to 12400
+[2021-06-12T16:18:08.654] [INFO] default - State set to Operating
+[2021-06-12T16:18:09.630] [INFO] default - State set to Satiated
+[2021-06-12T16:18:09.631] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T16:18:21.893] [INFO] default - State set to Active
+[2021-06-12T16:21:34.744] [INFO] default - Removing excess items from the memory
+[2021-06-12T16:21:34.804] [INFO] default - Items saved into the cache
+[2021-06-12T16:24:08.956] [INFO] default - Stoploss set to 12372.48
+[2021-06-12T16:24:08.961] [INFO] default - State set to Operating
+[2021-06-12T16:27:34.795] [INFO] default - Removing excess items from the memory
+[2021-06-12T16:27:34.848] [INFO] default - Items saved into the cache
+[2021-06-12T16:33:34.837] [INFO] default - Removing excess items from the memory
+[2021-06-12T16:33:34.876] [INFO] default - Items saved into the cache
+[2021-06-12T16:39:34.885] [INFO] default - Removing excess items from the memory
+[2021-06-12T16:39:34.920] [INFO] default - Items saved into the cache
+[2021-06-12T16:45:34.935] [INFO] default - Removing excess items from the memory
+[2021-06-12T16:45:34.949] [INFO] default - Items saved into the cache
+[2021-06-12T16:50:45.042] [INFO] default - State set to Satiated
+[2021-06-12T16:50:45.043] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T16:50:56.255] [INFO] default - State set to Active
+[2021-06-12T16:51:34.989] [INFO] default - Removing excess items from the memory
+[2021-06-12T16:51:35.027] [INFO] default - Items saved into the cache
+[2021-06-12T16:51:52.378] [INFO] default - Stoploss set to 12423.3
+[2021-06-12T16:51:52.389] [INFO] default - State set to Operating
+[2021-06-12T16:51:53.415] [INFO] default - State set to Satiated
+[2021-06-12T16:51:53.416] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T16:52:09.709] [INFO] default - State set to Active
+[2021-06-12T16:55:15.588] [INFO] default - Stoploss set to 12423.3
+[2021-06-12T16:55:15.594] [INFO] default - State set to Operating
+[2021-06-12T16:55:16.616] [INFO] default - State set to Satiated
+[2021-06-12T16:55:16.616] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T16:55:34.630] [INFO] default - State set to Active
+[2021-06-12T16:57:35.050] [INFO] default - Removing excess items from the memory
+[2021-06-12T16:57:35.063] [INFO] default - Items saved into the cache
+[2021-06-12T17:03:35.083] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:03:35.099] [INFO] default - Items saved into the cache
+[2021-06-12T17:09:35.136] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:09:35.171] [INFO] default - Items saved into the cache
+[2021-06-12T17:15:35.179] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:15:35.208] [INFO] default - Items saved into the cache
+[2021-06-12T17:16:21.239] [INFO] default - Stoploss set to 12395.16
+[2021-06-12T17:16:21.248] [INFO] default - State set to Operating
+[2021-06-12T17:16:22.273] [INFO] default - State set to Satiated
+[2021-06-12T17:16:22.274] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:16:36.020] [INFO] default - State set to Active
+[2021-06-12T17:19:17.863] [INFO] default - Saving into cache before exit
+[2021-06-12T17:19:17.955] [INFO] default - Items saved into the cache
+[2021-06-12T17:38:06.207] [INFO] default - Starting application
+[2021-06-12T17:38:13.727] [INFO] default - Booting services
+[2021-06-12T17:38:13.738] [INFO] default - Crawling into BTT_BRL pair dashboard
+[2021-06-12T17:38:20.615] [INFO] default - Searching for cached data
+[2021-06-12T17:38:20.620] [INFO] default - Cached loaded
+[2021-06-12T17:38:20.635] [INFO] default - Starting data collection
+[2021-06-12T17:38:20.636] [INFO] default - Starting indicators
+[2021-06-12T17:38:20.640] [INFO] default - Getting OperatorView DOM elements
+[2021-06-12T17:38:20.653] [INFO] default - Starting advisor
+[2021-06-12T17:38:20.654] [INFO] default - Starting application states
+[2021-06-12T17:38:20.656] [INFO] default - State set to Standby
+[2021-06-12T17:38:20.658] [INFO] default - Starting flow loop
+[2021-06-12T17:39:00.200] [INFO] default - State set to Active
+[2021-06-12T17:39:20.698] [INFO] default - Starting application
+[2021-06-12T17:39:21.531] [INFO] default - Booting services
+[2021-06-12T17:39:21.549] [INFO] default - Crawling into BTT_BRL pair dashboard
+[2021-06-12T17:39:27.480] [INFO] default - Searching for cached data
+[2021-06-12T17:39:27.485] [INFO] default - Cached loaded
+[2021-06-12T17:39:27.493] [INFO] default - Starting data collection
+[2021-06-12T17:39:27.494] [INFO] default - Starting indicators
+[2021-06-12T17:39:27.499] [INFO] default - Getting OperatorView DOM elements
+[2021-06-12T17:39:27.525] [INFO] default - Starting advisor
+[2021-06-12T17:39:27.526] [INFO] default - Starting application states
+[2021-06-12T17:39:27.527] [INFO] default - State set to Standby
+[2021-06-12T17:39:27.527] [INFO] default - Starting flow loop
+[2021-06-12T17:40:07.077] [INFO] default - State set to Active
+[2021-06-12T17:40:08.378] [INFO] default - Stoploss set to 6.1673535879
+[2021-06-12T17:40:08.411] [INFO] default - State set to Operating
+[2021-06-12T17:40:11.051] [INFO] default - State set to Satiated
+[2021-06-12T17:40:11.052] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:40:15.549] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:40:15.560] [INFO] default - Items saved into the cache
+[2021-06-12T17:40:21.556] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:40:21.560] [INFO] default - Items saved into the cache
+[2021-06-12T17:40:23.895] [INFO] default - State set to Active
+[2021-06-12T17:40:27.558] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:40:27.567] [INFO] default - Items saved into the cache
+[2021-06-12T17:40:33.574] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:40:33.580] [INFO] default - Items saved into the cache
+[2021-06-12T17:40:37.136] [INFO] default - Stoploss set to 7.6130497438
+[2021-06-12T17:40:37.154] [INFO] default - State set to Operating
+[2021-06-12T17:40:39.576] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:40:39.584] [INFO] default - Items saved into the cache
+[2021-06-12T17:40:42.652] [INFO] default - State set to Satiated
+[2021-06-12T17:40:42.653] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:40:45.586] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:40:45.605] [INFO] default - Items saved into the cache
+[2021-06-12T17:40:51.595] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:40:51.598] [INFO] default - Items saved into the cache
+[2021-06-12T17:40:57.606] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:40:57.616] [INFO] default - Items saved into the cache
+[2021-06-12T17:40:59.103] [INFO] default - State set to Active
+[2021-06-12T17:41:03.608] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:41:03.611] [INFO] default - Items saved into the cache
+[2021-06-12T17:41:09.618] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:41:09.622] [INFO] default - Items saved into the cache
+[2021-06-12T17:41:15.604] [INFO] default - Stoploss set to 6.7918859793
+[2021-06-12T17:41:15.611] [INFO] default - State set to Operating
+[2021-06-12T17:41:15.633] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:41:15.639] [INFO] default - Items saved into the cache
+[2021-06-12T17:41:19.702] [INFO] default - State set to Satiated
+[2021-06-12T17:41:19.703] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:41:21.643] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:41:21.648] [INFO] default - Items saved into the cache
+[2021-06-12T17:41:27.652] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:41:27.656] [INFO] default - Items saved into the cache
+[2021-06-12T17:41:33.109] [INFO] default - State set to Active
+[2021-06-12T17:41:33.663] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:41:33.683] [INFO] default - Items saved into the cache
+[2021-06-12T17:41:39.667] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:41:39.670] [INFO] default - Items saved into the cache
+[2021-06-12T17:41:43.245] [INFO] default - Stoploss set to 7.6054999925999995
+[2021-06-12T17:41:43.258] [INFO] default - State set to Operating
+[2021-06-12T17:41:45.674] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:41:45.677] [INFO] default - Items saved into the cache
+[2021-06-12T17:41:48.736] [INFO] default - State set to Satiated
+[2021-06-12T17:41:48.738] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:41:51.676] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:41:51.679] [INFO] default - Items saved into the cache
+[2021-06-12T17:41:57.684] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:41:57.688] [INFO] default - Items saved into the cache
+[2021-06-12T17:42:03.683] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:42:03.686] [INFO] default - Items saved into the cache
+[2021-06-12T17:42:08.530] [INFO] default - State set to Active
+[2021-06-12T17:42:09.685] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:42:09.689] [INFO] default - Items saved into the cache
+[2021-06-12T17:42:15.687] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:42:15.690] [INFO] default - Items saved into the cache
+[2021-06-12T17:42:21.700] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:42:21.702] [INFO] default - Items saved into the cache
+[2021-06-12T17:42:21.718] [INFO] default - Stoploss set to 6.8463627149
+[2021-06-12T17:42:21.726] [INFO] default - State set to Operating
+[2021-06-12T17:42:25.882] [INFO] default - State set to Satiated
+[2021-06-12T17:42:25.882] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:42:27.708] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:42:27.712] [INFO] default - Items saved into the cache
+[2021-06-12T17:42:33.709] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:42:33.711] [INFO] default - Items saved into the cache
+[2021-06-12T17:42:36.083] [INFO] default - State set to Active
+[2021-06-12T17:42:39.722] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:42:39.725] [INFO] default - Items saved into the cache
+[2021-06-12T17:42:45.734] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:42:45.736] [INFO] default - Items saved into the cache
+[2021-06-12T17:42:49.374] [INFO] default - Stoploss set to 7.6455066976
+[2021-06-12T17:42:49.383] [INFO] default - State set to Operating
+[2021-06-12T17:42:51.739] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:42:51.747] [INFO] default - Items saved into the cache
+[2021-06-12T17:42:55.010] [INFO] default - State set to Satiated
+[2021-06-12T17:42:55.013] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:42:57.748] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:42:57.753] [INFO] default - Items saved into the cache
+[2021-06-12T17:43:03.751] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:43:03.754] [INFO] default - Items saved into the cache
+[2021-06-12T17:43:09.168] [INFO] default - State set to Active
+[2021-06-12T17:43:09.752] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:43:09.758] [INFO] default - Items saved into the cache
+[2021-06-12T17:43:09.863] [INFO] default - Stoploss set to -3.9189692417
+[2021-06-12T17:43:09.869] [INFO] default - State set to Operating
+[2021-06-12T17:43:15.584] [INFO] default - State set to Satiated
+[2021-06-12T17:43:15.585] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:43:15.755] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:43:15.771] [INFO] default - Items saved into the cache
+[2021-06-12T17:43:21.758] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:43:21.796] [INFO] default - Items saved into the cache
+[2021-06-12T17:43:27.761] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:43:27.764] [INFO] default - Items saved into the cache
+[2021-06-12T17:43:33.773] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:43:33.777] [INFO] default - Items saved into the cache
+[2021-06-12T17:43:35.485] [INFO] default - State set to Active
+[2021-06-12T17:43:39.785] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:43:39.803] [INFO] default - Items saved into the cache
+[2021-06-12T17:43:45.795] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:43:45.798] [INFO] default - Items saved into the cache
+[2021-06-12T17:43:51.795] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:43:51.797] [INFO] default - Items saved into the cache
+[2021-06-12T17:43:55.477] [INFO] default - Stoploss set to 7.5778778764
+[2021-06-12T17:43:55.494] [INFO] default - State set to Operating
+[2021-06-12T17:43:57.797] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:43:57.806] [INFO] default - Items saved into the cache
+[2021-06-12T17:44:01.006] [INFO] default - State set to Satiated
+[2021-06-12T17:44:01.008] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:44:03.798] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:44:03.801] [INFO] default - Items saved into the cache
+[2021-06-12T17:44:09.800] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:44:09.803] [INFO] default - Items saved into the cache
+[2021-06-12T17:44:15.803] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:44:15.807] [INFO] default - Items saved into the cache
+[2021-06-12T17:44:16.023] [INFO] default - State set to Active
+[2021-06-12T17:44:21.817] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:44:21.820] [INFO] default - Items saved into the cache
+[2021-06-12T17:44:27.823] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:44:27.830] [INFO] default - Items saved into the cache
+[2021-06-12T17:44:33.818] [INFO] default - Stoploss set to 6.8086965357
+[2021-06-12T17:44:33.824] [INFO] default - State set to Operating
+[2021-06-12T17:44:33.826] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:44:33.829] [INFO] default - Items saved into the cache
+[2021-06-12T17:44:37.916] [INFO] default - State set to Satiated
+[2021-06-12T17:44:37.918] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:44:39.830] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:44:39.832] [INFO] default - Items saved into the cache
+[2021-06-12T17:44:45.840] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:44:45.864] [INFO] default - Items saved into the cache
+[2021-06-12T17:44:50.982] [INFO] default - State set to Active
+[2021-06-12T17:44:51.850] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:44:51.856] [INFO] default - Items saved into the cache
+[2021-06-12T17:44:57.853] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:44:57.859] [INFO] default - Items saved into the cache
+[2021-06-12T17:45:01.433] [INFO] default - Stoploss set to 7.645581271
+[2021-06-12T17:45:01.447] [INFO] default - State set to Operating
+[2021-06-12T17:45:03.861] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:45:03.865] [INFO] default - Items saved into the cache
+[2021-06-12T17:45:06.968] [INFO] default - State set to Satiated
+[2021-06-12T17:45:06.969] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:45:09.872] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:45:09.885] [INFO] default - Items saved into the cache
+[2021-06-12T17:45:15.883] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:45:15.891] [INFO] default - Items saved into the cache
+[2021-06-12T17:45:19.545] [INFO] default - State set to Active
+[2021-06-12T17:45:21.887] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:45:21.891] [INFO] default - Items saved into the cache
+[2021-06-12T17:45:21.935] [INFO] default - Stoploss set to -3.8882468221
+[2021-06-12T17:45:21.944] [INFO] default - State set to Operating
+[2021-06-12T17:45:27.667] [INFO] default - State set to Satiated
+[2021-06-12T17:45:27.668] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:45:27.892] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:45:27.900] [INFO] default - Items saved into the cache
+[2021-06-12T17:45:33.901] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:45:33.911] [INFO] default - Items saved into the cache
+[2021-06-12T17:45:39.911] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:45:39.937] [INFO] default - Items saved into the cache
+[2021-06-12T17:45:41.194] [INFO] default - State set to Active
+[2021-06-12T17:45:45.923] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:45:45.928] [INFO] default - Items saved into the cache
+[2021-06-12T17:45:51.939] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:45:51.948] [INFO] default - Items saved into the cache
+[2021-06-12T17:45:57.947] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:45:57.954] [INFO] default - Items saved into the cache
+[2021-06-12T17:46:03.950] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:46:03.963] [INFO] default - Items saved into the cache
+[2021-06-12T17:46:07.391] [INFO] default - Stoploss set to 7.623458667
+[2021-06-12T17:46:07.418] [INFO] default - State set to Operating
+[2021-06-12T17:46:09.966] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:46:09.979] [INFO] default - Items saved into the cache
+[2021-06-12T17:46:12.917] [INFO] default - State set to Satiated
+[2021-06-12T17:46:12.918] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:46:15.981] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:46:16.002] [INFO] default - Items saved into the cache
+[2021-06-12T17:46:21.995] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:46:22.009] [INFO] default - Items saved into the cache
+[2021-06-12T17:46:28.003] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:46:28.014] [INFO] default - Items saved into the cache
+[2021-06-12T17:46:30.342] [INFO] default - State set to Active
+[2021-06-12T17:46:34.008] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:46:34.033] [INFO] default - Items saved into the cache
+[2021-06-12T17:46:40.020] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:46:40.099] [INFO] default - Items saved into the cache
+[2021-06-12T17:46:45.805] [INFO] default - Stoploss set to 6.8582951402
+[2021-06-12T17:46:45.810] [INFO] default - State set to Operating
+[2021-06-12T17:46:46.026] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:46:46.031] [INFO] default - Items saved into the cache
+[2021-06-12T17:46:49.995] [INFO] default - State set to Satiated
+[2021-06-12T17:46:49.996] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:46:52.038] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:46:52.044] [INFO] default - Items saved into the cache
+[2021-06-12T17:46:58.038] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:46:58.049] [INFO] default - Items saved into the cache
+[2021-06-12T17:47:00.864] [INFO] default - State set to Active
+[2021-06-12T17:47:04.042] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:47:04.047] [INFO] default - Items saved into the cache
+[2021-06-12T17:47:10.044] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:47:10.069] [INFO] default - Items saved into the cache
+[2021-06-12T17:47:13.418] [INFO] default - Stoploss set to 7.6388870992
+[2021-06-12T17:47:13.444] [INFO] default - State set to Operating
+[2021-06-12T17:47:16.048] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:47:16.074] [INFO] default - Items saved into the cache
+[2021-06-12T17:47:18.939] [INFO] default - State set to Satiated
+[2021-06-12T17:47:18.940] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:47:22.055] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:47:22.063] [INFO] default - Items saved into the cache
+[2021-06-12T17:47:28.062] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:47:28.067] [INFO] default - Items saved into the cache
+[2021-06-12T17:47:34.065] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:47:34.067] [INFO] default - Items saved into the cache
+[2021-06-12T17:47:34.157] [INFO] default - State set to Active
+[2021-06-12T17:47:40.070] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:47:40.073] [INFO] default - Items saved into the cache
+[2021-06-12T17:47:46.084] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:47:46.104] [INFO] default - Items saved into the cache
+[2021-06-12T17:47:51.745] [INFO] default - Stoploss set to 6.8025017735999995
+[2021-06-12T17:47:51.752] [INFO] default - State set to Operating
+[2021-06-12T17:47:52.091] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:47:52.096] [INFO] default - Items saved into the cache
+[2021-06-12T17:47:55.815] [INFO] default - State set to Satiated
+[2021-06-12T17:47:55.821] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:47:58.092] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:47:58.098] [INFO] default - Items saved into the cache
+[2021-06-12T17:48:04.105] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:48:04.111] [INFO] default - Items saved into the cache
+[2021-06-12T17:48:10.112] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:48:10.117] [INFO] default - Items saved into the cache
+[2021-06-12T17:48:15.323] [INFO] default - State set to Active
+[2021-06-12T17:48:16.122] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:48:16.139] [INFO] default - Items saved into the cache
+[2021-06-12T17:48:19.275] [INFO] default - Stoploss set to 7.570041160300001
+[2021-06-12T17:48:19.288] [INFO] default - State set to Operating
+[2021-06-12T17:48:22.137] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:48:22.141] [INFO] default - Items saved into the cache
+[2021-06-12T17:48:24.778] [INFO] default - State set to Satiated
+[2021-06-12T17:48:24.779] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:48:28.145] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:48:28.152] [INFO] default - Items saved into the cache
+[2021-06-12T17:48:34.159] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:48:34.173] [INFO] default - Items saved into the cache
+[2021-06-12T17:48:40.160] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:48:40.163] [INFO] default - Items saved into the cache
+[2021-06-12T17:48:43.520] [INFO] default - State set to Active
+[2021-06-12T17:48:46.175] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:48:46.178] [INFO] default - Items saved into the cache
+[2021-06-12T17:48:52.190] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:48:52.200] [INFO] default - Items saved into the cache
+[2021-06-12T17:48:57.634] [INFO] default - Stoploss set to 6.8225337031
+[2021-06-12T17:48:57.640] [INFO] default - State set to Operating
+[2021-06-12T17:48:58.199] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:48:58.203] [INFO] default - Items saved into the cache
+[2021-06-12T17:49:01.707] [INFO] default - State set to Satiated
+[2021-06-12T17:49:01.707] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:49:04.206] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:49:04.211] [INFO] default - Items saved into the cache
+[2021-06-12T17:49:10.211] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:49:10.223] [INFO] default - Items saved into the cache
+[2021-06-12T17:49:12.207] [INFO] default - State set to Active
+[2021-06-12T17:49:16.221] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:49:16.227] [INFO] default - Items saved into the cache
+[2021-06-12T17:49:22.231] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:49:22.237] [INFO] default - Items saved into the cache
+[2021-06-12T17:49:25.220] [INFO] default - Stoploss set to 7.659664385799999
+[2021-06-12T17:49:25.233] [INFO] default - State set to Operating
+[2021-06-12T17:49:28.231] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:49:28.239] [INFO] default - Items saved into the cache
+[2021-06-12T17:49:30.685] [INFO] default - State set to Satiated
+[2021-06-12T17:49:30.685] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:49:34.234] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:49:34.246] [INFO] default - Items saved into the cache
+[2021-06-12T17:49:40.248] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:49:40.251] [INFO] default - Items saved into the cache
+[2021-06-12T17:49:46.249] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:49:46.257] [INFO] default - Items saved into the cache
+[2021-06-12T17:49:47.357] [INFO] default - State set to Active
+[2021-06-12T17:49:52.264] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:49:52.281] [INFO] default - Items saved into the cache
+[2021-06-12T17:49:58.267] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:49:58.272] [INFO] default - Items saved into the cache
+[2021-06-12T17:50:03.493] [INFO] default - Stoploss set to 6.7945982747
+[2021-06-12T17:50:03.507] [INFO] default - State set to Operating
+[2021-06-12T17:50:04.279] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:50:04.282] [INFO] default - Items saved into the cache
+[2021-06-12T17:50:07.586] [INFO] default - State set to Satiated
+[2021-06-12T17:50:07.587] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:50:10.281] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:50:10.283] [INFO] default - Items saved into the cache
+[2021-06-12T17:50:16.285] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:50:16.289] [INFO] default - Items saved into the cache
+[2021-06-12T17:50:22.292] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:50:22.295] [INFO] default - Items saved into the cache
+[2021-06-12T17:50:24.526] [INFO] default - State set to Active
+[2021-06-12T17:50:28.302] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:50:28.307] [INFO] default - Items saved into the cache
+[2021-06-12T17:50:31.057] [INFO] default - Stoploss set to 7.660902956499999
+[2021-06-12T17:50:31.067] [INFO] default - State set to Operating
+[2021-06-12T17:50:34.316] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:50:34.322] [INFO] default - Items saved into the cache
+[2021-06-12T17:50:36.549] [INFO] default - State set to Satiated
+[2021-06-12T17:50:36.550] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:50:40.320] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:50:40.331] [INFO] default - Items saved into the cache
+[2021-06-12T17:50:46.321] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:50:46.326] [INFO] default - Items saved into the cache
+[2021-06-12T17:50:52.334] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:50:52.342] [INFO] default - Items saved into the cache
+[2021-06-12T17:50:52.344] [INFO] default - State set to Active
+[2021-06-12T17:50:58.340] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:50:58.345] [INFO] default - Items saved into the cache
+[2021-06-12T17:51:04.353] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:51:04.363] [INFO] default - Items saved into the cache
+[2021-06-12T17:51:09.435] [INFO] default - Stoploss set to 6.808487445900001
+[2021-06-12T17:51:09.447] [INFO] default - State set to Operating
+[2021-06-12T17:51:10.356] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:51:10.360] [INFO] default - Items saved into the cache
+[2021-06-12T17:51:13.534] [INFO] default - State set to Satiated
+[2021-06-12T17:51:13.536] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:51:16.361] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:51:16.371] [INFO] default - Items saved into the cache
+[2021-06-12T17:51:22.375] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:51:22.378] [INFO] default - Items saved into the cache
+[2021-06-12T17:51:28.385] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:51:28.391] [INFO] default - Items saved into the cache
+[2021-06-12T17:51:30.693] [INFO] default - State set to Active
+[2021-06-12T17:51:34.398] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:51:34.403] [INFO] default - Items saved into the cache
+[2021-06-12T17:51:36.979] [INFO] default - Stoploss set to 7.5877563765
+[2021-06-12T17:51:36.985] [INFO] default - State set to Operating
+[2021-06-12T17:51:40.408] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:51:40.413] [INFO] default - Items saved into the cache
+[2021-06-12T17:51:42.477] [INFO] default - State set to Satiated
+[2021-06-12T17:51:42.478] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:51:46.414] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:51:46.424] [INFO] default - Items saved into the cache
+[2021-06-12T17:51:52.420] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:51:52.432] [INFO] default - Items saved into the cache
+[2021-06-12T17:51:58.049] [INFO] default - State set to Active
+[2021-06-12T17:51:58.427] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:51:58.434] [INFO] default - Items saved into the cache
+[2021-06-12T17:52:04.432] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:52:04.437] [INFO] default - Items saved into the cache
+[2021-06-12T17:52:10.444] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:52:10.455] [INFO] default - Items saved into the cache
+[2021-06-12T17:52:15.283] [INFO] default - Stoploss set to 6.7837216257
+[2021-06-12T17:52:15.292] [INFO] default - State set to Operating
+[2021-06-12T17:52:16.459] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:52:16.465] [INFO] default - Items saved into the cache
+[2021-06-12T17:52:19.227] [INFO] default - State set to Satiated
+[2021-06-12T17:52:19.228] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:52:22.463] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:52:22.466] [INFO] default - Items saved into the cache
+[2021-06-12T17:52:28.464] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:52:28.467] [INFO] default - Items saved into the cache
+[2021-06-12T17:52:34.471] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:52:34.477] [INFO] default - Items saved into the cache
+[2021-06-12T17:52:35.568] [INFO] default - State set to Active
+[2021-06-12T17:52:40.478] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:52:40.503] [INFO] default - Items saved into the cache
+[2021-06-12T17:52:42.817] [INFO] default - Stoploss set to 7.5914504024
+[2021-06-12T17:52:42.824] [INFO] default - State set to Operating
+[2021-06-12T17:52:46.489] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:52:46.494] [INFO] default - Items saved into the cache
+[2021-06-12T17:52:48.308] [INFO] default - State set to Satiated
+[2021-06-12T17:52:48.309] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:52:52.502] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:52:52.514] [INFO] default - Items saved into the cache
+[2021-06-12T17:52:58.511] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:52:58.520] [INFO] default - Items saved into the cache
+[2021-06-12T17:53:04.526] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:53:04.532] [INFO] default - Items saved into the cache
+[2021-06-12T17:53:05.098] [INFO] default - State set to Active
+[2021-06-12T17:53:10.527] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:53:10.532] [INFO] default - Items saved into the cache
+[2021-06-12T17:53:16.530] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:53:16.541] [INFO] default - Items saved into the cache
+[2021-06-12T17:53:21.170] [INFO] default - Stoploss set to 6.829308908
+[2021-06-12T17:53:21.212] [INFO] default - State set to Operating
+[2021-06-12T17:53:22.545] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:53:22.548] [INFO] default - Items saved into the cache
+[2021-06-12T17:53:25.254] [INFO] default - State set to Satiated
+[2021-06-12T17:53:25.255] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:53:28.557] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:53:28.569] [INFO] default - Items saved into the cache
+[2021-06-12T17:53:34.559] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:53:34.570] [INFO] default - Items saved into the cache
+[2021-06-12T17:53:40.347] [INFO] default - State set to Active
+[2021-06-12T17:53:40.571] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:53:40.574] [INFO] default - Items saved into the cache
+[2021-06-12T17:53:46.575] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:53:46.593] [INFO] default - Items saved into the cache
+[2021-06-12T17:53:48.825] [INFO] default - Stoploss set to 7.6111255705
+[2021-06-12T17:53:48.830] [INFO] default - State set to Operating
+[2021-06-12T17:53:52.576] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:53:52.584] [INFO] default - Items saved into the cache
+[2021-06-12T17:53:54.326] [INFO] default - State set to Satiated
+[2021-06-12T17:53:54.326] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:53:58.591] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:53:58.603] [INFO] default - Items saved into the cache
+[2021-06-12T17:54:04.595] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:54:04.600] [INFO] default - Items saved into the cache
+[2021-06-12T17:54:10.603] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:54:10.607] [INFO] default - Items saved into the cache
+[2021-06-12T17:54:11.290] [INFO] default - State set to Active
+[2021-06-12T17:54:16.604] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:54:16.608] [INFO] default - Items saved into the cache
+[2021-06-12T17:54:22.607] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:54:22.610] [INFO] default - Items saved into the cache
+[2021-06-12T17:54:27.166] [INFO] default - Stoploss set to 6.7580364464
+[2021-06-12T17:54:27.189] [INFO] default - State set to Operating
+[2021-06-12T17:54:28.614] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:54:28.618] [INFO] default - Items saved into the cache
+[2021-06-12T17:54:31.267] [INFO] default - State set to Satiated
+[2021-06-12T17:54:31.269] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:54:34.621] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:54:34.627] [INFO] default - Items saved into the cache
+[2021-06-12T17:54:40.629] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:54:40.632] [INFO] default - Items saved into the cache
+[2021-06-12T17:54:46.631] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:54:46.634] [INFO] default - Items saved into the cache
+[2021-06-12T17:54:47.053] [INFO] default - State set to Active
+[2021-06-12T17:54:52.635] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:54:52.637] [INFO] default - Items saved into the cache
+[2021-06-12T17:54:54.721] [INFO] default - Stoploss set to 7.6441476443
+[2021-06-12T17:54:54.726] [INFO] default - State set to Operating
+[2021-06-12T17:54:58.639] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:54:58.641] [INFO] default - Items saved into the cache
+[2021-06-12T17:55:00.334] [INFO] default - State set to Satiated
+[2021-06-12T17:55:00.335] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:55:04.654] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:55:04.657] [INFO] default - Items saved into the cache
+[2021-06-12T17:55:10.656] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:55:10.659] [INFO] default - Items saved into the cache
+[2021-06-12T17:55:16.551] [INFO] default - State set to Active
+[2021-06-12T17:55:16.661] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:55:16.665] [INFO] default - Items saved into the cache
+[2021-06-12T17:55:22.665] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:55:22.668] [INFO] default - Items saved into the cache
+[2021-06-12T17:55:28.673] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:55:28.676] [INFO] default - Items saved into the cache
+[2021-06-12T17:55:33.112] [INFO] default - Stoploss set to 6.859056093
+[2021-06-12T17:55:33.145] [INFO] default - State set to Operating
+[2021-06-12T17:55:34.681] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:55:34.684] [INFO] default - Items saved into the cache
+[2021-06-12T17:55:37.196] [INFO] default - State set to Satiated
+[2021-06-12T17:55:37.196] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:55:40.687] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:55:40.689] [INFO] default - Items saved into the cache
+[2021-06-12T17:55:46.693] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:55:46.696] [INFO] default - Items saved into the cache
+[2021-06-12T17:55:47.425] [INFO] default - State set to Active
+[2021-06-12T17:55:52.698] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:55:52.704] [INFO] default - Items saved into the cache
+[2021-06-12T17:55:58.707] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:55:58.710] [INFO] default - Items saved into the cache
+[2021-06-12T17:56:00.728] [INFO] default - Stoploss set to 7.594799825600001
+[2021-06-12T17:56:00.735] [INFO] default - State set to Operating
+[2021-06-12T17:56:04.717] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:56:04.720] [INFO] default - Items saved into the cache
+[2021-06-12T17:56:06.278] [INFO] default - State set to Satiated
+[2021-06-12T17:56:06.278] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:56:10.722] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:56:10.725] [INFO] default - Items saved into the cache
+[2021-06-12T17:56:16.727] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:56:16.729] [INFO] default - Items saved into the cache
+[2021-06-12T17:56:22.734] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:56:22.738] [INFO] default - Items saved into the cache
+[2021-06-12T17:56:25.567] [INFO] default - State set to Active
+[2021-06-12T17:56:28.744] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:56:28.747] [INFO] default - Items saved into the cache
+[2021-06-12T17:56:34.759] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:56:34.763] [INFO] default - Items saved into the cache
+[2021-06-12T17:56:39.160] [INFO] default - Stoploss set to 6.8506122222
+[2021-06-12T17:56:39.171] [INFO] default - State set to Operating
+[2021-06-12T17:56:40.773] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:56:40.779] [INFO] default - Items saved into the cache
+[2021-06-12T17:56:43.263] [INFO] default - State set to Satiated
+[2021-06-12T17:56:43.264] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:56:46.786] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:56:46.794] [INFO] default - Items saved into the cache
+[2021-06-12T17:56:52.798] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:56:52.823] [INFO] default - Items saved into the cache
+[2021-06-12T17:56:53.555] [INFO] default - State set to Active
+[2021-06-12T17:56:58.799] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:56:58.801] [INFO] default - Items saved into the cache
+[2021-06-12T17:57:04.811] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:57:04.814] [INFO] default - Items saved into the cache
+[2021-06-12T17:57:06.782] [INFO] default - Stoploss set to 7.570255347
+[2021-06-12T17:57:06.787] [INFO] default - State set to Operating
+[2021-06-12T17:57:10.821] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:57:10.824] [INFO] default - Items saved into the cache
+[2021-06-12T17:57:12.308] [INFO] default - State set to Satiated
+[2021-06-12T17:57:12.311] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:57:16.826] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:57:16.842] [INFO] default - Items saved into the cache
+[2021-06-12T17:57:22.379] [INFO] default - State set to Active
+[2021-06-12T17:57:22.837] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:57:22.840] [INFO] default - Items saved into the cache
+[2021-06-12T17:57:27.261] [INFO] default - Stoploss set to -3.8760197819999997
+[2021-06-12T17:57:27.274] [INFO] default - State set to Operating
+[2021-06-12T17:57:28.839] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:57:28.847] [INFO] default - Items saved into the cache
+[2021-06-12T17:57:33.019] [INFO] default - State set to Satiated
+[2021-06-12T17:57:33.020] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:57:34.845] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:57:34.848] [INFO] default - Items saved into the cache
+[2021-06-12T17:57:40.855] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:57:40.864] [INFO] default - Items saved into the cache
+[2021-06-12T17:57:46.866] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:57:46.870] [INFO] default - Items saved into the cache
+[2021-06-12T17:57:47.069] [INFO] default - State set to Active
+[2021-06-12T17:57:52.881] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:57:52.889] [INFO] default - Items saved into the cache
+[2021-06-12T17:57:58.895] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:57:58.903] [INFO] default - Items saved into the cache
+[2021-06-12T17:58:04.905] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:58:04.910] [INFO] default - Items saved into the cache
+[2021-06-12T17:58:10.910] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:58:10.914] [INFO] default - Items saved into the cache
+[2021-06-12T17:58:12.682] [INFO] default - Stoploss set to 7.6112517353
+[2021-06-12T17:58:12.688] [INFO] default - State set to Operating
+[2021-06-12T17:58:16.924] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:58:16.927] [INFO] default - Items saved into the cache
+[2021-06-12T17:58:18.209] [INFO] default - State set to Satiated
+[2021-06-12T17:58:18.210] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:58:22.926] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:58:22.929] [INFO] default - Items saved into the cache
+[2021-06-12T17:58:28.939] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:58:28.967] [INFO] default - Items saved into the cache
+[2021-06-12T17:58:29.127] [INFO] default - State set to Active
+[2021-06-12T17:58:33.164] [INFO] default - Stoploss set to -3.8886981502999998
+[2021-06-12T17:58:33.176] [INFO] default - State set to Operating
+[2021-06-12T17:58:34.948] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:58:34.955] [INFO] default - Items saved into the cache
+[2021-06-12T17:58:38.990] [INFO] default - State set to Satiated
+[2021-06-12T17:58:38.990] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:58:40.959] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:58:40.971] [INFO] default - Items saved into the cache
+[2021-06-12T17:58:46.971] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:58:46.974] [INFO] default - Items saved into the cache
+[2021-06-12T17:58:52.975] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:58:52.982] [INFO] default - Items saved into the cache
+[2021-06-12T17:58:57.027] [INFO] default - State set to Active
+[2021-06-12T17:58:58.982] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:58:59.004] [INFO] default - Items saved into the cache
+[2021-06-12T17:59:04.990] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:59:04.996] [INFO] default - Items saved into the cache
+[2021-06-12T17:59:11.004] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:59:11.017] [INFO] default - Items saved into the cache
+[2021-06-12T17:59:17.015] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:59:17.021] [INFO] default - Items saved into the cache
+[2021-06-12T17:59:18.663] [INFO] default - Stoploss set to 7.6061845971999995
+[2021-06-12T17:59:18.669] [INFO] default - State set to Operating
+[2021-06-12T17:59:23.023] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:59:23.027] [INFO] default - Items saved into the cache
+[2021-06-12T17:59:24.284] [INFO] default - State set to Satiated
+[2021-06-12T17:59:24.285] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:59:29.033] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:59:29.037] [INFO] default - Items saved into the cache
+[2021-06-12T17:59:35.039] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:59:35.043] [INFO] default - Items saved into the cache
+[2021-06-12T17:59:38.922] [INFO] default - State set to Active
+[2021-06-12T17:59:39.079] [INFO] default - Stoploss set to -3.9364748129
+[2021-06-12T17:59:39.095] [INFO] default - State set to Operating
+[2021-06-12T17:59:41.052] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:59:41.074] [INFO] default - Items saved into the cache
+[2021-06-12T17:59:44.808] [INFO] default - State set to Satiated
+[2021-06-12T17:59:44.810] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T17:59:47.060] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:59:47.067] [INFO] default - Items saved into the cache
+[2021-06-12T17:59:53.072] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:59:53.075] [INFO] default - Items saved into the cache
+[2021-06-12T17:59:56.117] [INFO] default - State set to Active
+[2021-06-12T17:59:56.969] [INFO] default - Stoploss set to 6.8465269169
+[2021-06-12T17:59:56.975] [INFO] default - State set to Operating
+[2021-06-12T17:59:59.075] [INFO] default - Removing excess items from the memory
+[2021-06-12T17:59:59.077] [INFO] default - Items saved into the cache
+[2021-06-12T18:00:01.002] [INFO] default - State set to Satiated
+[2021-06-12T18:00:01.002] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T18:00:05.084] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:00:05.087] [INFO] default - Items saved into the cache
+[2021-06-12T18:00:11.091] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:00:11.094] [INFO] default - Items saved into the cache
+[2021-06-12T18:00:17.098] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:00:17.100] [INFO] default - Items saved into the cache
+[2021-06-12T18:00:20.666] [INFO] default - State set to Active
+[2021-06-12T18:00:23.099] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:00:23.119] [INFO] default - Items saved into the cache
+[2021-06-12T18:00:24.520] [INFO] default - Stoploss set to 7.6521911276
+[2021-06-12T18:00:24.545] [INFO] default - State set to Operating
+[2021-06-12T18:00:29.100] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:00:29.102] [INFO] default - Items saved into the cache
+[2021-06-12T18:00:30.011] [INFO] default - State set to Satiated
+[2021-06-12T18:00:30.011] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T18:00:35.109] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:00:35.120] [INFO] default - Items saved into the cache
+[2021-06-12T18:00:41.119] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:00:41.123] [INFO] default - Items saved into the cache
+[2021-06-12T18:00:44.284] [INFO] default - State set to Active
+[2021-06-12T18:00:44.903] [INFO] default - Stoploss set to -3.8902009849000008
+[2021-06-12T18:00:44.926] [INFO] default - State set to Operating
+[2021-06-12T18:00:47.121] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:00:47.124] [INFO] default - Items saved into the cache
+[2021-06-12T18:00:50.575] [INFO] default - State set to Satiated
+[2021-06-12T18:00:50.575] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T18:00:53.129] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:00:53.134] [INFO] default - Items saved into the cache
+[2021-06-12T18:00:59.143] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:00:59.149] [INFO] default - Items saved into the cache
+[2021-06-12T18:01:05.158] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:01:05.164] [INFO] default - Items saved into the cache
+[2021-06-12T18:01:07.929] [INFO] default - State set to Active
+[2021-06-12T18:01:11.173] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:01:11.176] [INFO] default - Items saved into the cache
+[2021-06-12T18:01:17.180] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:01:17.189] [INFO] default - Items saved into the cache
+[2021-06-12T18:01:23.181] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:01:23.187] [INFO] default - Items saved into the cache
+[2021-06-12T18:01:29.195] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:01:29.226] [INFO] default - Items saved into the cache
+[2021-06-12T18:01:30.312] [INFO] default - Stoploss set to 7.6160559377000006
+[2021-06-12T18:01:30.319] [INFO] default - State set to Operating
+[2021-06-12T18:01:35.195] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:01:35.198] [INFO] default - Items saved into the cache
+[2021-06-12T18:01:35.816] [INFO] default - State set to Satiated
+[2021-06-12T18:01:35.817] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T18:01:41.210] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:01:41.218] [INFO] default - Items saved into the cache
+[2021-06-12T18:01:47.221] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:01:47.239] [INFO] default - Items saved into the cache
+[2021-06-12T18:01:53.227] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:01:53.233] [INFO] default - Items saved into the cache
+[2021-06-12T18:01:55.379] [INFO] default - State set to Active
+[2021-06-12T18:01:59.237] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:01:59.240] [INFO] default - Items saved into the cache
+[2021-06-12T18:02:05.247] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:02:05.251] [INFO] default - Items saved into the cache
+[2021-06-12T18:02:08.589] [INFO] default - Stoploss set to 6.7597691028
+[2021-06-12T18:02:08.599] [INFO] default - State set to Operating
+[2021-06-12T18:02:11.259] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:02:11.263] [INFO] default - Items saved into the cache
+[2021-06-12T18:02:12.640] [INFO] default - State set to Satiated
+[2021-06-12T18:02:12.640] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T18:02:17.269] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:02:17.271] [INFO] default - Items saved into the cache
+[2021-06-12T18:02:23.282] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:02:23.303] [INFO] default - Items saved into the cache
+[2021-06-12T18:02:28.630] [INFO] default - State set to Active
+[2021-06-12T18:02:29.290] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:02:29.303] [INFO] default - Items saved into the cache
+[2021-06-12T18:02:35.293] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:02:35.297] [INFO] default - Items saved into the cache
+[2021-06-12T18:02:36.143] [INFO] default - Stoploss set to 7.6466416624
+[2021-06-12T18:02:36.149] [INFO] default - State set to Operating
+[2021-06-12T18:02:41.304] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:02:41.307] [INFO] default - Items saved into the cache
+[2021-06-12T18:02:41.793] [INFO] default - State set to Satiated
+[2021-06-12T18:02:41.794] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T18:02:47.319] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:02:47.322] [INFO] default - Items saved into the cache
+[2021-06-12T18:02:53.326] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:02:53.330] [INFO] default - Items saved into the cache
+[2021-06-12T18:02:58.450] [INFO] default - State set to Active
+[2021-06-12T18:02:59.339] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:02:59.363] [INFO] default - Items saved into the cache
+[2021-06-12T18:03:05.342] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:03:05.344] [INFO] default - Items saved into the cache
+[2021-06-12T18:03:11.357] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:03:11.361] [INFO] default - Items saved into the cache
+[2021-06-12T18:03:14.529] [INFO] default - Stoploss set to 6.8045126577
+[2021-06-12T18:03:14.537] [INFO] default - State set to Operating
+[2021-06-12T18:03:17.359] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:03:17.364] [INFO] default - Items saved into the cache
+[2021-06-12T18:03:18.612] [INFO] default - State set to Satiated
+[2021-06-12T18:03:18.612] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T18:03:23.367] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:03:23.371] [INFO] default - Items saved into the cache
+[2021-06-12T18:03:29.382] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:03:29.385] [INFO] default - Items saved into the cache
+[2021-06-12T18:03:32.079] [INFO] default - State set to Active
+[2021-06-12T18:03:35.391] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:03:35.396] [INFO] default - Items saved into the cache
+[2021-06-12T18:03:41.403] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:03:41.407] [INFO] default - Items saved into the cache
+[2021-06-12T18:03:42.107] [INFO] default - Stoploss set to 7.5434293897
+[2021-06-12T18:03:42.133] [INFO] default - State set to Operating
+[2021-06-12T18:03:43.835] [INFO] default - Saving into cache before exit
+[2021-06-12T18:03:43.854] [INFO] default - Items saved into the cache
+[2021-06-12T18:17:25.421] [INFO] default - Starting application
+[2021-06-12T18:17:31.267] [INFO] default - Booting services
+[2021-06-12T18:17:31.270] [INFO] default - Crawling into BTT_BRL pair dashboard
+[2021-06-12T18:17:41.046] [INFO] default - Searching for cached data
+[2021-06-12T18:17:41.815] [INFO] default - Starting data collection
+[2021-06-12T18:17:41.815] [INFO] default - Starting indicators
+[2021-06-12T18:17:41.828] [INFO] default - Getting OperatorView DOM elements
+[2021-06-12T18:17:41.839] [INFO] default - Starting advisor
+[2021-06-12T18:17:41.843] [INFO] default - Starting application states
+[2021-06-12T18:17:41.844] [INFO] default - State set to Standby
+[2021-06-12T18:17:41.844] [INFO] default - Starting flow loop
+[2021-06-12T18:17:41.973] [INFO] default - State set to Active
+[2021-06-12T18:17:45.701] [INFO] default - Stoploss set to 7.5583791836
+[2021-06-12T18:17:45.709] [INFO] default - State set to Operating
+[2021-06-12T18:17:47.821] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:17:47.824] [WARN] default - No data to save into files
+[2021-06-12T18:17:47.825] [INFO] default - Items saved into the cache
+[2021-06-12T18:18:05.909] [INFO] default - Starting application
+[2021-06-12T18:18:06.758] [INFO] default - Booting services
+[2021-06-12T18:18:06.762] [INFO] default - Crawling into BTT_BRL pair dashboard
+[2021-06-12T18:18:12.892] [INFO] default - Searching for cached data
+[2021-06-12T18:18:13.645] [INFO] default - Starting data collection
+[2021-06-12T18:18:13.646] [INFO] default - Starting indicators
+[2021-06-12T18:18:13.669] [INFO] default - Getting OperatorView DOM elements
+[2021-06-12T18:18:13.730] [INFO] default - Starting advisor
+[2021-06-12T18:18:13.731] [INFO] default - Starting application states
+[2021-06-12T18:18:13.731] [INFO] default - State set to Standby
+[2021-06-12T18:18:13.732] [INFO] default - Starting flow loop
+[2021-06-12T18:18:13.850] [INFO] default - State set to Active
+[2021-06-12T18:18:17.582] [INFO] default - Stoploss set to 7.6563686543
+[2021-06-12T18:18:17.594] [INFO] default - State set to Operating
+[2021-06-12T18:18:19.659] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:18:19.665] [WARN] default - No data to save into files
+[2021-06-12T18:18:19.673] [INFO] default - Items saved into the cache
+[2021-06-12T18:18:23.070] [INFO] default - State set to Satiated
+[2021-06-12T18:18:23.074] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T18:18:25.661] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:18:25.666] [INFO] default - Items saved into the cache
+[2021-06-12T18:18:31.671] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:18:31.678] [INFO] default - Items saved into the cache
+[2021-06-12T18:18:35.576] [INFO] default - State set to Active
+[2021-06-12T18:18:37.677] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:18:37.680] [INFO] default - Items saved into the cache
+[2021-06-12T18:18:43.683] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:18:43.687] [INFO] default - Items saved into the cache
+[2021-06-12T18:18:44.512] [INFO] default - Stoploss set to 6.8484138870999995
+[2021-06-12T18:18:44.524] [INFO] default - State set to Operating
+[2021-06-12T18:18:49.480] [INFO] default - State set to Satiated
+[2021-06-12T18:18:49.482] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T18:18:49.687] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:18:49.699] [INFO] default - Items saved into the cache
+[2021-06-12T18:18:55.699] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:18:55.712] [INFO] default - Items saved into the cache
+[2021-06-12T18:19:00.283] [INFO] default - State set to Active
+[2021-06-12T18:19:01.703] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:19:01.709] [INFO] default - Items saved into the cache
+[2021-06-12T18:19:07.717] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:19:07.721] [INFO] default - Items saved into the cache
+[2021-06-12T18:19:13.725] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:19:13.749] [INFO] default - Items saved into the cache
+[2021-06-12T18:19:19.735] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:19:19.738] [INFO] default - Items saved into the cache
+[2021-06-12T18:19:23.352] [INFO] default - Stoploss set to 7.5389917758
+[2021-06-12T18:19:23.415] [INFO] default - State set to Operating
+[2021-06-12T18:19:25.739] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:19:25.741] [INFO] default - Items saved into the cache
+[2021-06-12T18:19:28.980] [INFO] default - State set to Satiated
+[2021-06-12T18:19:28.981] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T18:19:31.739] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:19:31.742] [INFO] default - Items saved into the cache
+[2021-06-12T18:19:37.743] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:19:37.746] [INFO] default - Items saved into the cache
+[2021-06-12T18:19:42.963] [INFO] default - State set to Active
+[2021-06-12T18:19:43.757] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:19:43.778] [INFO] default - Items saved into the cache
+[2021-06-12T18:19:49.769] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:19:49.774] [INFO] default - Items saved into the cache
+[2021-06-12T18:19:50.822] [INFO] default - Stoploss set to 6.0738002532
+[2021-06-12T18:19:50.830] [INFO] default - State set to Operating
+[2021-06-12T18:19:55.459] [INFO] default - State set to Satiated
+[2021-06-12T18:19:55.460] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T18:19:55.782] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:19:55.797] [INFO] default - Items saved into the cache
+[2021-06-12T18:20:01.784] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:20:01.787] [INFO] default - Items saved into the cache
+[2021-06-12T18:20:05.803] [INFO] default - State set to Active
+[2021-06-12T18:20:07.785] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:20:07.803] [INFO] default - Items saved into the cache
+[2021-06-12T18:20:13.789] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:20:13.810] [INFO] default - Items saved into the cache
+[2021-06-12T18:20:19.797] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:20:19.810] [INFO] default - Items saved into the cache
+[2021-06-12T18:20:25.807] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:20:25.810] [INFO] default - Items saved into the cache
+[2021-06-12T18:20:29.196] [INFO] default - Stoploss set to 7.489009901100001
+[2021-06-12T18:20:29.220] [INFO] default - State set to Operating
+[2021-06-12T18:20:31.812] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:20:31.816] [INFO] default - Items saved into the cache
+[2021-06-12T18:20:34.783] [INFO] default - State set to Satiated
+[2021-06-12T18:20:34.786] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T18:20:37.827] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:20:37.829] [INFO] default - Items saved into the cache
+[2021-06-12T18:20:43.841] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:20:43.844] [INFO] default - Items saved into the cache
+[2021-06-12T18:20:49.856] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:20:49.859] [INFO] default - Items saved into the cache
+[2021-06-12T18:20:54.251] [INFO] default - State set to Active
+[2021-06-12T18:20:55.870] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:20:55.875] [INFO] default - Items saved into the cache
+[2021-06-12T18:20:56.645] [INFO] default - Stoploss set to 5.9941757879
+[2021-06-12T18:20:56.676] [INFO] default - State set to Operating
+[2021-06-12T18:21:01.321] [INFO] default - State set to Satiated
+[2021-06-12T18:21:01.322] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T18:21:01.870] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:21:01.884] [INFO] default - Items saved into the cache
+[2021-06-12T18:21:07.881] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:21:07.896] [INFO] default - Items saved into the cache
+[2021-06-12T18:21:13.888] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:21:13.895] [INFO] default - Items saved into the cache
+[2021-06-12T18:21:19.787] [INFO] default - State set to Active
+[2021-06-12T18:21:19.898] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:21:19.905] [INFO] default - Items saved into the cache
+[2021-06-12T18:21:25.914] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:21:25.925] [INFO] default - Items saved into the cache
+[2021-06-12T18:21:31.923] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:21:31.930] [INFO] default - Items saved into the cache
+[2021-06-12T18:21:35.226] [INFO] default - Stoploss set to 7.539743269600001
+[2021-06-12T18:21:35.233] [INFO] default - State set to Operating
+[2021-06-12T18:21:37.937] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:21:37.945] [INFO] default - Items saved into the cache
+[2021-06-12T18:21:40.860] [INFO] default - State set to Satiated
+[2021-06-12T18:21:40.860] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T18:21:43.947] [INFO] default - Removing excess items from the memory
+[2021-06-12T18:21:43.949] [INFO] default - Items saved into the cache
+[2021-06-12T18:21:44.575] [INFO] default - Saving into cache before exit
+[2021-06-12T18:21:44.593] [INFO] default - Items saved into the cache
+[2021-06-12T18:21:48.110] [INFO] default - Starting application
+[2021-06-12T18:21:49.188] [INFO] default - Booting services
+[2021-06-12T18:21:49.194] [INFO] default - Crawling into BTT_BRL pair dashboard
+[2021-06-12T18:23:49.027] [INFO] default - Starting application
+[2021-06-12T18:23:50.442] [INFO] default - Booting services
+[2021-06-12T18:23:50.445] [INFO] default - Crawling into BTT_BRL pair dashboard
+[2021-06-12T18:23:57.680] [INFO] default - Searching for cached data
+[2021-06-12T18:23:58.521] [INFO] default - Starting data collection
+[2021-06-12T18:23:58.522] [INFO] default - Starting indicators
+[2021-06-12T18:23:58.630] [INFO] default - Getting OperatorView DOM elements
+[2021-06-12T18:23:58.696] [INFO] default - Starting advisor
+[2021-06-12T18:23:58.697] [INFO] default - Starting application states
+[2021-06-12T18:23:58.698] [INFO] default - State set to Standby
+[2021-06-12T18:23:58.698] [INFO] default - Starting flow loop
+[2021-06-12T18:23:59.718] [INFO] default - State set to Active
+[2021-06-12T18:24:22.378] [INFO] default - Saving into cache before exit
+[2021-06-12T18:24:36.797] [INFO] default - Starting application
+[2021-06-12T18:24:38.046] [INFO] default - Booting services
+[2021-06-12T18:24:38.057] [INFO] default - Crawling into BTT_BRL pair dashboard
+[2021-06-12T18:24:44.858] [INFO] default - Searching for cached data
+[2021-06-12T18:24:44.861] [INFO] default - Cached loaded
+[2021-06-12T18:24:44.862] [INFO] default - Starting data collection
+[2021-06-12T18:24:44.863] [INFO] default - Starting indicators
+[2021-06-12T18:24:44.867] [INFO] default - Getting OperatorView DOM elements
+[2021-06-12T18:24:44.889] [INFO] default - Starting advisor
+[2021-06-12T18:24:44.890] [INFO] default - Starting application states
+[2021-06-12T18:24:44.891] [INFO] default - State set to Standby
+[2021-06-12T18:24:44.892] [INFO] default - Starting flow loop
+[2021-06-12T19:25:13.699] [INFO] default - State set to Active
+[2021-06-12T19:26:19.099] [INFO] default - Stoploss set to 0.01731658665
+[2021-06-12T19:26:19.120] [INFO] default - State set to Operating
+[2021-06-12T19:26:40.321] [INFO] default - State set to Satiated
+[2021-06-12T19:26:40.322] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T19:26:56.509] [INFO] default - State set to Active
+[2021-06-12T19:30:45.439] [INFO] default - Removing excess items from the memory
+[2021-06-12T19:30:45.467] [INFO] default - Items saved into the cache
+[2021-06-12T19:36:45.468] [INFO] default - Removing excess items from the memory
+[2021-06-12T19:36:45.481] [INFO] default - Items saved into the cache
+[2021-06-12T19:42:45.523] [INFO] default - Removing excess items from the memory
+[2021-06-12T19:42:45.572] [INFO] default - Items saved into the cache
+[2021-06-12T19:48:45.585] [INFO] default - Removing excess items from the memory
+[2021-06-12T19:48:45.597] [INFO] default - Items saved into the cache
+[2021-06-12T19:54:45.619] [INFO] default - Removing excess items from the memory
+[2021-06-12T19:54:45.628] [INFO] default - Items saved into the cache
+[2021-06-12T20:00:45.658] [INFO] default - Removing excess items from the memory
+[2021-06-12T20:00:45.673] [INFO] default - Items saved into the cache
+[2021-06-12T20:06:45.696] [INFO] default - Removing excess items from the memory
+[2021-06-12T20:06:45.712] [INFO] default - Items saved into the cache
+[2021-06-12T20:12:45.736] [INFO] default - Removing excess items from the memory
+[2021-06-12T20:12:45.759] [INFO] default - Items saved into the cache
+[2021-06-12T20:13:18.662] [INFO] default - Saving into cache before exit
+[2021-06-12T20:13:18.822] [INFO] default - Items saved into the cache
+[2021-06-12T20:13:42.153] [INFO] default - Starting application
+[2021-06-12T20:13:52.063] [INFO] default - Booting services
+[2021-06-12T20:13:52.077] [INFO] default - Crawling into BTT_BRL pair dashboard
+[2021-06-12T20:14:04.401] [INFO] default - Searching for cached data
+[2021-06-12T20:14:05.102] [INFO] default - Starting data collection
+[2021-06-12T20:14:05.103] [INFO] default - Starting indicators
+[2021-06-12T20:14:05.281] [INFO] default - Getting OperatorView DOM elements
+[2021-06-12T20:14:05.300] [INFO] default - Starting advisor
+[2021-06-12T20:14:05.302] [INFO] default - Starting application states
+[2021-06-12T20:14:05.302] [INFO] default - State set to Standby
+[2021-06-12T20:14:05.303] [INFO] default - Starting flow loop
+[2021-06-12T20:14:06.311] [INFO] default - State set to Active
+[2021-06-12T20:20:05.148] [WARN] default - No data to save into files
+[2021-06-12T20:20:05.149] [INFO] default - Items saved into the cache
+[2021-06-12T20:26:05.307] [INFO] default - Items saved into the cache
+[2021-06-12T20:32:05.360] [INFO] default - Items saved into the cache
+[2021-06-12T20:38:05.325] [INFO] default - Items saved into the cache
+[2021-06-12T20:44:05.358] [INFO] default - Items saved into the cache
+[2021-06-12T20:50:05.395] [INFO] default - Items saved into the cache
+[2021-06-12T20:56:05.447] [INFO] default - Items saved into the cache
+[2021-06-12T21:02:05.520] [INFO] default - Items saved into the cache
+[2021-06-12T21:02:59.959] [INFO] default - Saving into cache before exit
+[2021-06-12T21:03:00.239] [INFO] default - Items saved into the cache
+[2021-06-12T21:19:05.634] [INFO] default - Starting application
+[2021-06-12T21:19:34.084] [INFO] default - Booting services
+[2021-06-12T21:19:34.085] [INFO] default - Crawling into BTT_BRL pair dashboard
+[2021-06-12T21:19:50.024] [INFO] default - Searching for cached data
+[2021-06-12T21:19:51.399] [INFO] default - Starting data collection
+[2021-06-12T21:19:51.399] [INFO] default - Starting indicators
+[2021-06-12T21:19:51.602] [INFO] default - Getting OperatorView DOM elements
+[2021-06-12T21:19:51.709] [INFO] default - Starting advisor
+[2021-06-12T21:19:51.714] [INFO] default - Starting application states
+[2021-06-12T21:19:51.716] [INFO] default - State set to Standby
+[2021-06-12T21:19:51.718] [INFO] default - Starting flow loop
+[2021-06-12T21:19:52.767] [INFO] default - State set to Active
+[2021-06-12T21:25:51.442] [WARN] default - No data to save into files
+[2021-06-12T21:25:51.444] [INFO] default - Items saved into the cache
+[2021-06-12T21:31:51.521] [INFO] default - Items saved into the cache
+[2021-06-12T21:37:51.568] [INFO] default - Items saved into the cache
+[2021-06-12T21:43:51.599] [INFO] default - Items saved into the cache
+[2021-06-12T21:45:00.909] [INFO] default - Stoploss set to 0.0176353122
+[2021-06-12T21:45:00.941] [INFO] default - State set to Operating
+[2021-06-12T21:45:21.207] [INFO] default - State set to Satiated
+[2021-06-12T21:45:21.207] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T21:45:32.286] [INFO] default - State set to Active
+[2021-06-12T21:46:05.473] [INFO] default - Stoploss set to 0.017767752979999996
+[2021-06-12T21:46:05.575] [INFO] default - State set to Operating
+[2021-06-12T21:46:19.624] [INFO] default - State set to Satiated
+[2021-06-12T21:46:19.624] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T21:46:35.685] [INFO] default - State set to Active
+[2021-06-12T21:46:40.835] [INFO] default - Stoploss set to 0.01768388483
+[2021-06-12T21:46:40.858] [INFO] default - State set to Operating
+[2021-06-12T21:46:50.912] [INFO] default - State set to Satiated
+[2021-06-12T21:46:50.913] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T21:47:10.154] [INFO] default - State set to Active
+[2021-06-12T21:49:51.653] [INFO] default - Items saved into the cache
+[2021-06-12T21:49:52.421] [INFO] default - Stoploss set to 0.01784226417
+[2021-06-12T21:49:52.426] [INFO] default - State set to Operating
+[2021-06-12T21:50:04.522] [INFO] default - State set to Satiated
+[2021-06-12T21:50:04.523] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T21:50:21.643] [INFO] default - State set to Active
+[2021-06-12T21:55:51.687] [INFO] default - Items saved into the cache
+[2021-06-12T22:01:51.747] [INFO] default - Items saved into the cache
+[2021-06-12T22:07:51.787] [INFO] default - Items saved into the cache
+[2021-06-12T22:09:30.044] [INFO] default - Saving into cache before exit
+[2021-06-12T22:09:30.124] [INFO] default - Items saved into the cache
+[2021-06-12T22:09:40.713] [INFO] default - Starting application
+[2021-06-12T22:09:47.160] [INFO] default - Booting services
+[2021-06-12T22:09:47.160] [INFO] default - Crawling into BTT_BRL pair dashboard
+[2021-06-12T22:09:54.746] [INFO] default - Searching for cached data
+[2021-06-12T22:09:56.235] [INFO] default - Starting data collection
+[2021-06-12T22:09:56.235] [INFO] default - Starting indicators
+[2021-06-12T22:09:56.344] [INFO] default - Getting OperatorView DOM elements
+[2021-06-12T22:09:56.362] [INFO] default - Starting advisor
+[2021-06-12T22:09:56.362] [INFO] default - Starting application states
+[2021-06-12T22:09:56.363] [INFO] default - State set to Standby
+[2021-06-12T22:09:56.363] [INFO] default - Starting flow loop
+[2021-06-12T22:09:57.389] [INFO] default - State set to Active
+[2021-06-12T22:14:02.147] [INFO] default - Stoploss set to 0.017521932400000002
+[2021-06-12T22:14:02.158] [INFO] default - State set to Operating
+[2021-06-12T22:14:06.315] [INFO] default - State set to Satiated
+[2021-06-12T22:14:06.317] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:14:25.267] [INFO] default - State set to Active
+[2021-06-12T22:15:56.288] [WARN] default - No data to save into files
+[2021-06-12T22:15:56.291] [INFO] default - Items saved into the cache
+[2021-06-12T22:16:04.069] [INFO] default - Stoploss set to 0.01752383876
+[2021-06-12T22:16:04.080] [INFO] default - State set to Operating
+[2021-06-12T22:16:12.163] [INFO] default - State set to Satiated
+[2021-06-12T22:16:12.163] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:16:22.856] [INFO] default - State set to Active
+[2021-06-12T22:16:25.249] [INFO] default - Stoploss set to 0.01753439537
+[2021-06-12T22:16:25.272] [INFO] default - State set to Operating
+[2021-06-12T22:16:27.276] [INFO] default - State set to Satiated
+[2021-06-12T22:16:27.277] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:16:39.099] [INFO] default - State set to Active
+[2021-06-12T22:16:49.432] [INFO] default - Stoploss set to 0.017521825150000003
+[2021-06-12T22:16:49.445] [INFO] default - State set to Operating
+[2021-06-12T22:17:00.637] [INFO] default - State set to Satiated
+[2021-06-12T22:17:00.638] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:17:17.427] [INFO] default - State set to Active
+[2021-06-12T22:17:17.635] [INFO] default - Stoploss set to 0.01751487026
+[2021-06-12T22:17:17.641] [INFO] default - State set to Operating
+[2021-06-12T22:17:27.679] [INFO] default - State set to Satiated
+[2021-06-12T22:17:27.679] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:17:40.199] [INFO] default - State set to Active
+[2021-06-12T22:18:29.140] [INFO] default - Stoploss set to 0.01752461125
+[2021-06-12T22:18:29.161] [INFO] default - State set to Operating
+[2021-06-12T22:18:31.163] [INFO] default - State set to Satiated
+[2021-06-12T22:18:31.165] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:18:45.268] [INFO] default - State set to Active
+[2021-06-12T22:18:46.253] [INFO] default - Stoploss set to 0.01752228724
+[2021-06-12T22:18:46.269] [INFO] default - State set to Operating
+[2021-06-12T22:18:52.292] [INFO] default - State set to Satiated
+[2021-06-12T22:18:52.293] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:19:12.289] [INFO] default - State set to Active
+[2021-06-12T22:19:16.480] [INFO] default - Stoploss set to 0.017520643409999998
+[2021-06-12T22:19:16.492] [INFO] default - State set to Operating
+[2021-06-12T22:19:30.567] [INFO] default - State set to Satiated
+[2021-06-12T22:19:30.568] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:19:47.404] [INFO] default - State set to Active
+[2021-06-12T22:20:07.881] [INFO] default - Stoploss set to 0.017519423550000003
+[2021-06-12T22:20:07.892] [INFO] default - State set to Operating
+[2021-06-12T22:20:19.992] [INFO] default - State set to Satiated
+[2021-06-12T22:20:19.993] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:20:32.703] [INFO] default - State set to Active
+[2021-06-12T22:20:40.155] [INFO] default - Stoploss set to 0.01751096155
+[2021-06-12T22:20:40.169] [INFO] default - State set to Operating
+[2021-06-12T22:20:46.199] [INFO] default - State set to Satiated
+[2021-06-12T22:20:46.200] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:20:58.562] [INFO] default - State set to Active
+[2021-06-12T22:21:03.325] [INFO] default - Stoploss set to 0.017498252399999997
+[2021-06-12T22:21:03.332] [INFO] default - State set to Operating
+[2021-06-12T22:21:12.655] [INFO] default - State set to Satiated
+[2021-06-12T22:21:12.655] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:21:23.462] [INFO] default - State set to Active
+[2021-06-12T22:21:24.530] [INFO] default - Stoploss set to 0.01752745388
+[2021-06-12T22:21:24.536] [INFO] default - State set to Operating
+[2021-06-12T22:21:31.591] [INFO] default - State set to Satiated
+[2021-06-12T22:21:31.592] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:21:44.045] [INFO] default - State set to Active
+[2021-06-12T22:21:56.366] [INFO] default - Items saved into the cache
+[2021-06-12T22:22:11.871] [INFO] default - Stoploss set to 0.01752879618
+[2021-06-12T22:22:11.878] [INFO] default - State set to Operating
+[2021-06-12T22:22:24.002] [INFO] default - State set to Satiated
+[2021-06-12T22:22:24.003] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:22:38.721] [INFO] default - State set to Active
+[2021-06-12T22:22:42.102] [INFO] default - Stoploss set to 0.01751479751
+[2021-06-12T22:22:42.113] [INFO] default - State set to Operating
+[2021-06-12T22:22:56.254] [INFO] default - State set to Satiated
+[2021-06-12T22:22:56.254] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:23:06.813] [INFO] default - State set to Active
+[2021-06-12T22:23:17.395] [INFO] default - Stoploss set to 0.01750021027
+[2021-06-12T22:23:17.415] [INFO] default - State set to Operating
+[2021-06-12T22:23:34.572] [INFO] default - State set to Satiated
+[2021-06-12T22:23:34.573] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:23:53.186] [INFO] default - State set to Active
+[2021-06-12T22:23:55.672] [INFO] default - Stoploss set to 0.0175174734
+[2021-06-12T22:23:55.695] [INFO] default - State set to Operating
+[2021-06-12T22:24:34.973] [INFO] default - State set to Satiated
+[2021-06-12T22:24:34.975] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:24:51.230] [INFO] default - State set to Active
+[2021-06-12T22:25:11.211] [INFO] default - Stoploss set to 0.017498688150000004
+[2021-06-12T22:25:11.218] [INFO] default - State set to Operating
+[2021-06-12T22:25:27.350] [INFO] default - State set to Satiated
+[2021-06-12T22:25:27.351] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:25:42.125] [INFO] default - State set to Active
+[2021-06-12T22:25:45.474] [INFO] default - Stoploss set to 0.01749661489
+[2021-06-12T22:25:45.487] [INFO] default - State set to Operating
+[2021-06-12T22:25:57.823] [INFO] default - Saving into cache before exit
+[2021-06-12T22:25:57.923] [INFO] default - Items saved into the cache
+[2021-06-12T22:26:01.253] [INFO] default - Starting application
+[2021-06-12T22:26:02.474] [INFO] default - Booting services
+[2021-06-12T22:26:02.480] [INFO] default - Crawling into BTT_BRL pair dashboard
+[2021-06-12T22:26:09.366] [INFO] default - Searching for cached data
+[2021-06-12T22:26:10.269] [INFO] default - Starting data collection
+[2021-06-12T22:26:10.270] [INFO] default - Starting indicators
+[2021-06-12T22:26:10.442] [INFO] default - Getting OperatorView DOM elements
+[2021-06-12T22:26:10.458] [INFO] default - Starting advisor
+[2021-06-12T22:26:10.459] [INFO] default - Starting application states
+[2021-06-12T22:26:10.460] [INFO] default - State set to Standby
+[2021-06-12T22:26:10.460] [INFO] default - Starting flow loop
+[2021-06-12T22:26:11.483] [INFO] default - State set to Active
+[2021-06-12T22:26:20.549] [INFO] default - Stoploss set to 0.01742416109
+[2021-06-12T22:26:20.556] [INFO] default - State set to Operating
+[2021-06-12T22:26:48.770] [INFO] default - State set to Satiated
+[2021-06-12T22:26:48.771] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:27:04.210] [INFO] default - State set to Active
+[2021-06-12T22:27:13.907] [INFO] default - Stoploss set to 0.01741708341
+[2021-06-12T22:27:13.925] [INFO] default - State set to Operating
+[2021-06-12T22:27:39.076] [INFO] default - State set to Satiated
+[2021-06-12T22:27:39.077] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:27:58.716] [INFO] default - State set to Active
+[2021-06-12T22:28:14.340] [INFO] default - Stoploss set to 0.01743225016
+[2021-06-12T22:28:14.357] [INFO] default - State set to Operating
+[2021-06-12T22:28:25.435] [INFO] default - State set to Satiated
+[2021-06-12T22:28:25.436] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:28:44.210] [INFO] default - State set to Active
+[2021-06-12T22:28:44.573] [INFO] default - Stoploss set to 0.0174444097
+[2021-06-12T22:28:44.583] [INFO] default - State set to Operating
+[2021-06-12T22:28:58.689] [INFO] default - State set to Satiated
+[2021-06-12T22:28:58.689] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:29:12.919] [INFO] default - State set to Active
+[2021-06-12T22:29:16.785] [INFO] default - Stoploss set to 0.01743867504
+[2021-06-12T22:29:16.800] [INFO] default - State set to Operating
+[2021-06-12T22:29:31.930] [INFO] default - State set to Satiated
+[2021-06-12T22:29:31.931] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:29:48.764] [INFO] default - State set to Active
+[2021-06-12T22:29:52.032] [INFO] default - Stoploss set to 0.017436902110000003
+[2021-06-12T22:29:52.048] [INFO] default - State set to Operating
+[2021-06-12T22:30:22.294] [INFO] default - State set to Satiated
+[2021-06-12T22:30:22.295] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:30:38.031] [INFO] default - State set to Active
+[2021-06-12T22:37:10.365] [WARN] default - No data to save into files
+[2021-06-12T22:37:10.366] [INFO] default - Items saved into the cache
+[2021-06-12T22:37:47.638] [INFO] default - Stoploss set to 0.017426569750000002
+[2021-06-12T22:37:47.646] [INFO] default - State set to Operating
+[2021-06-12T22:38:15.955] [INFO] default - State set to Satiated
+[2021-06-12T22:38:15.956] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:38:26.856] [INFO] default - State set to Active
+[2021-06-12T22:38:29.039] [INFO] default - Stoploss set to 0.01742184824
+[2021-06-12T22:38:29.045] [INFO] default - State set to Operating
+[2021-06-12T22:38:49.225] [INFO] default - State set to Satiated
+[2021-06-12T22:38:49.226] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:39:08.571] [INFO] default - State set to Active
+[2021-06-12T22:39:21.513] [INFO] default - Stoploss set to 0.01743710124
+[2021-06-12T22:39:21.520] [INFO] default - State set to Operating
+[2021-06-12T22:39:29.603] [INFO] default - State set to Satiated
+[2021-06-12T22:39:29.603] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:39:44.048] [INFO] default - State set to Active
+[2021-06-12T22:39:53.712] [INFO] default - Stoploss set to 0.01743986375
+[2021-06-12T22:39:53.725] [INFO] default - State set to Operating
+[2021-06-12T22:40:07.822] [INFO] default - State set to Satiated
+[2021-06-12T22:40:07.823] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:40:18.288] [INFO] default - State set to Active
+[2021-06-12T22:40:18.911] [INFO] default - Stoploss set to 0.01743214207
+[2021-06-12T22:40:18.920] [INFO] default - State set to Operating
+[2021-06-12T22:40:36.063] [INFO] default - State set to Satiated
+[2021-06-12T22:40:36.063] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:40:51.271] [INFO] default - State set to Active
+[2021-06-12T22:41:16.332] [INFO] default - Stoploss set to 0.01743010669
+[2021-06-12T22:41:16.341] [INFO] default - State set to Operating
+[2021-06-12T22:41:54.624] [INFO] default - State set to Satiated
+[2021-06-12T22:41:54.625] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:42:13.365] [INFO] default - State set to Active
+[2021-06-12T22:42:14.745] [INFO] default - Stoploss set to 0.01742309424
+[2021-06-12T22:42:14.751] [INFO] default - State set to Operating
+[2021-06-12T22:42:35.899] [INFO] default - State set to Satiated
+[2021-06-12T22:42:35.900] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-12T22:42:48.778] [INFO] default - State set to Active
+[2021-06-12T22:42:50.377] [INFO] default - Saving into cache before exit
+[2021-06-12T22:42:50.515] [INFO] default - Items saved into the cache
+[2021-06-12T22:42:53.669] [INFO] default - Starting application
+[2021-06-12T22:42:54.699] [INFO] default - Booting services
+[2021-06-12T22:42:54.707] [INFO] default - Crawling into BTT_BRL pair dashboard
+[2021-06-12T22:43:02.399] [INFO] default - Searching for cached data
+[2021-06-12T22:43:03.687] [INFO] default - Starting data collection
+[2021-06-12T22:43:03.687] [INFO] default - Starting indicators
+[2021-06-12T22:43:03.814] [INFO] default - Getting OperatorView DOM elements
+[2021-06-12T22:43:03.829] [INFO] default - Starting advisor
+[2021-06-12T22:43:03.830] [INFO] default - Starting application states
+[2021-06-12T22:43:03.830] [INFO] default - State set to Standby
+[2021-06-12T22:43:03.831] [INFO] default - Starting flow loop
+[2021-06-12T22:43:04.853] [INFO] default - State set to Active
+[2021-06-12T22:54:03.769] [WARN] default - No data to save into files
+[2021-06-12T22:54:03.770] [INFO] default - Items saved into the cache
+[2021-06-12T23:05:03.916] [INFO] default - Items saved into the cache
+[2021-06-12T23:16:03.996] [INFO] default - Items saved into the cache
+[2021-06-12T23:27:04.093] [INFO] default - Items saved into the cache
+[2021-06-12T23:38:04.147] [INFO] default - Items saved into the cache
+[2021-06-12T23:49:04.236] [INFO] default - Items saved into the cache
+[2021-06-13T00:00:04.282] [INFO] default - Items saved into the cache
+[2021-06-13T00:11:04.348] [INFO] default - Items saved into the cache
+[2021-06-13T00:22:04.419] [INFO] default - Items saved into the cache
+[2021-06-13T00:33:04.490] [INFO] default - Items saved into the cache
+[2021-06-13T00:44:04.580] [INFO] default - Items saved into the cache
+[2021-06-13T00:55:04.701] [INFO] default - Items saved into the cache
+[2021-06-13T01:06:04.773] [INFO] default - Items saved into the cache
+[2021-06-13T01:14:00.712] [INFO] default - Stoploss set to 0.017672090039999998
+[2021-06-13T01:14:00.757] [INFO] default - State set to Operating
+[2021-06-13T01:14:16.803] [INFO] default - State set to Satiated
+[2021-06-13T01:14:16.804] [INFO] default - Cooldown to new operations for 10 seconds
+[2021-06-13T01:14:31.069] [INFO] default - State set to Active
+[2021-06-13T01:17:04.772] [INFO] default - Items saved into the cache
+[2021-06-13T01:28:04.859] [INFO] default - Items saved into the cache
+[2021-06-13T01:39:05.021] [INFO] default - Items saved into the cache
+[2021-06-13T01:50:05.067] [INFO] default - Items saved into the cache
+[2021-06-13T02:01:05.179] [INFO] default - Items saved into the cache
+[2021-06-13T02:12:05.238] [INFO] default - Items saved into the cache
+[2021-06-13T02:23:05.213] [INFO] default - Items saved into the cache
+[2021-06-13T02:34:05.335] [INFO] default - Items saved into the cache
+[2021-06-13T02:45:05.417] [INFO] default - Items saved into the cache
+[2021-06-13T02:56:05.541] [INFO] default - Items saved into the cache
+[2021-06-13T03:07:05.523] [INFO] default - Items saved into the cache
+[2021-06-13T03:18:05.622] [INFO] default - Items saved into the cache
+[2021-06-13T03:29:05.672] [INFO] default - Items saved into the cache
+[2021-06-13T03:40:05.841] [INFO] default - Items saved into the cache
+[2021-06-13T03:51:05.899] [INFO] default - Items saved into the cache
+[2021-06-13T04:02:05.899] [INFO] default - Items saved into the cache
+[2021-06-13T04:13:05.985] [INFO] default - Items saved into the cache
+[2021-06-13T04:24:06.066] [INFO] default - Items saved into the cache
+[2021-06-13T04:35:06.136] [INFO] default - Items saved into the cache
+[2021-06-13T04:46:06.233] [INFO] default - Items saved into the cache
+[2021-06-13T04:57:06.309] [INFO] default - Items saved into the cache
+[2021-06-13T05:08:06.382] [INFO] default - Items saved into the cache
+[2021-06-13T05:19:06.450] [INFO] default - Items saved into the cache
+[2021-06-13T05:30:06.535] [INFO] default - Items saved into the cache
+[2021-06-13T05:41:06.629] [INFO] default - Items saved into the cache
